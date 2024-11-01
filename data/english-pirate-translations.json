@@ -1,0 +1,221 @@
+[
+  {
+    "en": "Hello",
+    "pr": "Ahoy"
+  },
+  { "en": "Goodbye", "pr": "Fair winds" },
+  { "en": "Yes", "pr": "Aye" },
+  { "en": "No", "pr": "Nay" },
+  { "en": "My name is", "pr": "Me name be" },
+  { "en": "How are you?", "pr": "How be ye?" },
+  { "en": "I am fine", "pr": "I be fine" },
+  { "en": "Please", "pr": "I be askin' ye kindly" },
+  { "en": "Thank you", "pr": "Thank ye" },
+  { "en": "You're welcome", "pr": "Ye be welcome" },
+  { "en": "Excuse me", "pr": "Beggin' yer pardon" },
+  { "en": "What is your name?", "pr": "What be yer moniker?" },
+  { "en": "I don't understand", "pr": "I be not followin' ye" },
+  { "en": "Where are you from?", "pr": "Where be ye hailin' from?" },
+  { "en": "Help!", "pr": "Man overboard!" },
+  { "en": "I'm hungry", "pr": "I be starvin' like a dog!" },
+  { "en": "Let's go!", "pr": "Avast, let’s set sail!" },
+  { "en": "Treasure", "pr": "Booty" },
+  { "en": "Ship", "pr": "Vessel" },
+  { "en": "Captain", "pr": "Cap'n" },
+  { "en": "Friend", "pr": "Matey" },
+  { "en": "Enemy", "pr": "Scallywag" },
+  { "en": "Drink", "pr": "Grog" },
+  { "en": "Battle", "pr": "Skirmish" },
+  { "en": "I don't understand", "pr": "Avast! I be not comprehendin' ye." },
+  { "en": "Where is the treasure?", "pr": "Arr, where be the booty?" },
+  { "en": "Set sail!", "pr": "Hoist the sails, ye landlubbers!" },
+  { "en": "Raise the anchor!", "pr": "Weigh the anchor, ye mangy dogs!" },
+  { "en": "Ahoy, captain!", "pr": "Ahoy, ye scallywag of a captain!" },
+  { "en": "Yo ho ho!", "pr": "Yo ho ho, and a bottle o' rum!" },
+  {
+    "en": "Avast, ye landlubbers!",
+    "pr": "Avast, ye lily-livered landlubbers!"
+  },
+  {
+    "en": "Batten down the hatches!",
+    "pr": "Batten down the hatches, ye scallywags!"
+  },
+  { "en": "Walk the plank!", "pr": "Walk the plank, ye bilge rat!" },
+  { "en": "Shiver me timbers!", "pr": "Shiver me timbers, ye scurvy dog!" },
+  { "en": "Aye, aye, captain!", "pr": "Aye, aye, ye mangy dog of a captain!" },
+  { "en": "Pieces of eight!", "pr": "Pieces of eight, ye landlubbers!" },
+
+  {
+    "en": "people",
+    "pr": "crew"
+  },
+  {
+    "en": "history",
+    "pr": "tales o' old"
+  },
+  {
+    "en": "way",
+    "pr": "course"
+  },
+  {
+    "en": "art",
+    "pr": "craft"
+  },
+  {
+    "en": "world",
+    "pr": "seas"
+  },
+  {
+    "en": "information",
+    "pr": "intel"
+  },
+  {
+    "en": "map",
+    "pr": "chart"
+  },
+  {
+    "en": "two",
+    "pr": "pair"
+  },
+  {
+    "en": "family",
+    "pr": "crew"
+  },
+  {
+    "en": "government",
+    "pr": "captaincy"
+  },
+  {
+    "en": "health",
+    "pr": "well-bein'"
+  },
+  {
+    "en": "system",
+    "pr": "scheme"
+  },
+  {
+    "en": "computer",
+    "pr": "mechanical beast"
+  },
+  {
+    "en": "meat",
+    "pr": "grub"
+  },
+  {
+    "en": "year",
+    "pr": "turn o' the sun"
+  },
+  {
+    "en": "thanks",
+    "pr": "yarrr, cheers"
+  },
+  {
+    "en": "music",
+    "pr": "shanty"
+  },
+  {
+    "en": "person",
+    "pr": "matey"
+  },
+  {
+    "en": "reading",
+    "pr": "perusin'"
+  },
+  {
+    "en": "method",
+    "pr": "way o' doin'"
+  },
+  {
+    "en": "data",
+    "pr": "info"
+  },
+  {
+    "en": "food",
+    "pr": "victuals"
+  },
+
+  {
+    "en": "The sun sets in the west.",
+    "pr": "Th' sun be settin' in th' west."
+  },
+  {
+    "en": "Birds chirp in the early morning.",
+    "pr": "Birds be chirpin' in th' early mornin'."
+  },
+  {
+    "en": "A gentle breeze rustles the leaves.",
+    "pr": "A gentle breeze be rustlin' th' leaves."
+  },
+  {
+    "en": "Children laugh and play in the park.",
+    "pr": "Lad and lass be laughin' and playin' in th' park."
+  },
+  {
+    "en": "Books open up new worlds of imagination.",
+    "pr": "Books be openin' up new worlds o' imagination."
+  },
+  {
+    "en": "The aroma of fresh coffee fills the air.",
+    "pr": "Th' aroma o' fresh coffee be fillin' th' air."
+  },
+  {
+    "en": "Stars twinkle in the night sky.",
+    "pr": "Stars be twinklin' in th' night sky."
+  },
+  {
+    "en": "Music has the power to heal the soul.",
+    "pr": "Music be havin' th' power t' heal th' soul."
+  },
+  {
+    "en": "Friendship is a treasure that lasts a lifetime.",
+    "pr": "Friendship be a treasure that lasts a lifetime."
+  },
+  {
+    "en": "Every day is a new opportunity to learn.",
+    "pr": "Every day be a new chance t' learn."
+  },
+  {
+    "en": "The ocean waves crash against the shore.",
+    "pr": "Th' ocean waves be crashin' against th' shore."
+  },
+  {
+    "en": "Mountains stand tall against the horizon.",
+    "pr": "Mountains be standin' tall against th' horizon."
+  },
+  {
+    "en": "A rainbow appears after the rain.",
+    "pr": "A rainbow be appearin' after th' rain."
+  },
+  {
+    "en": "The sound of laughter echoes in the room.",
+    "pr": "Th' sound o' laughter be echoing in th' room."
+  },
+  {
+    "en": "Time spent with family is priceless.",
+    "pr": "Time spent with family be priceless."
+  },
+  {
+    "en": "Nature's beauty is all around us.",
+    "pr": "Nature's beauty be all 'round us."
+  },
+  {
+    "en": "A warm hug can brighten anyone's day.",
+    "pr": "A warm hug can brighten any scallywag's day."
+  },
+  {
+    "en": "Dreams are the seeds of reality.",
+    "pr": "Dreams be th' seeds o' reality."
+  },
+  {
+    "en": "The first snow of winter is magical.",
+    "pr": "Th' first snow o' winter be magical."
+  },
+  {
+    "en": "Art expresses emotions that words cannot.",
+    "pr": "Art be expressin' emotions that words cannae."
+  },
+  {
+    "en": "Kindness is a language everyone understands.",
+    "pr": "Kindness be a tongue all can understand."
+  }
+]
