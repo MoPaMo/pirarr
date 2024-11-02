@@ -35,13 +35,16 @@ tokenized_validation = dataset["test"].map(preprocess_function, batched=True)
 training_args = TrainingArguments(
     output_dir="./pirate_translator",
     eval_strategy="epoch",
-    per_device_train_batch_size=8,
-    per_device_eval_batch_size=8,
-    num_train_epochs=5,
+    per_device_train_batch_size=4,  # Reduced batch size
+    per_device_eval_batch_size=4,
+    num_train_epochs=15,            # Increased epochs
     save_steps=10,
     save_total_limit=2,
     logging_steps=1,
     logging_dir="./logs",
+    learning_rate=2e-5,            # Added specific learning rate
+    warmup_steps=100,              # Added warmup steps
+    weight_decay=0.01,             # Added weight decay for regularization
 )
 
 trainer = Trainer(
@@ -63,14 +66,19 @@ def translate_to_pirate(text):
     inputs = tokenizer(input_text, return_tensors="pt", max_length=128, truncation=True, padding="max_length")
     inputs = {k: v.to(device) for k, v in inputs.items()}
     
-    # Generate translation with specific parameters
+    # Generate translation with improved parameters
     outputs = model.generate(
         **inputs,
         max_new_tokens=128,
-        num_beams=5,
-        no_repeat_ngram_size=2,
+        num_beams=4,
+        num_return_sequences=1,
+        no_repeat_ngram_size=3,
+        do_sample=True,              # Enable sampling
+        temperature=0.7,             # Temperature for sampling
+        top_k=50,                    # Top-k sampling
+        top_p=0.95,                  # Nucleus sampling
         early_stopping=True,
-        temperature=0.7
+        length_penalty=1.0
     )
     
     # Decode the output
@@ -82,7 +90,9 @@ def translate_to_pirate(text):
 test_texts = [
     "Hello, how are you?",
     "I need to find my ship",
-    "Let's go on an adventure"
+    "Let's go on an adventure",
+    "The treasure is buried on the island",
+    "Watch out for the enemy ships!"
 ]
 
 print("\nTesting the translator:")
