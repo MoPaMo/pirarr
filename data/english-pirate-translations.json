@@ -875,5 +875,6 @@
   { "en": "chest full of treasure", "pr": "coffer" },
   { "en": "type of sword used by pirates", "pr": "cutlass" },
   { "en": "gold coins", "pr": "doubloons" },
-  { "en": "coins", "pr": "pieces of eight" }
+  { "en": "coins", "pr": "pieces of eight" }.
+
 ]
