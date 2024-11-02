@@ -983,20 +983,387 @@
     "en": "As usual in birds of prey, females are larger than males; considerably so in some of these species as this assists resource partitioning.",
     "pr": "As be common in birds o' prey, females be bigger than males; far more so in some kinds, as this helps divvy up resources."
   },
-    {"en": "A History of Japanese Literature (1899), written by the diplomat and Japanese and Korean scholar William George Aston, is the oldest comprehensive survey of the large Japanese literature having been published in English.", "pr": "A History o' Japanese Literature (1899), penned by th' diplomat an' scholar o' Japan an' Korea, William George Aston, be th' oldest comprehensive survey o' th' vast Japanese literature ever published in English."},
-    {"en": "Its range is from the Archaic period (before A.D. 700) until the so-called Tokio period in the second half of the nineteenth century and covers all lyrics, poetry, prose and children's stories.", "pr": "Its span be from th' Archaic period (fore A.D. 700) till th' so-called Tokio period in th' latter half o' th' nineteenth century, coverin' all lyrics, poetry, prose, an' tales fer wee scallywags."},
-    {"en": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.", "pr": "We th' People o' th' United States, fer th' purpose o' creatin' a more perfect Union, settin' up Justice, ensurin' domestic Tranquility, providin' fer th' common defence, promotin' th' general Welfare, an' securin' th' Blessings o' Liberty fer ourselves an' our future kin, do ordain an' establish this Constitution fer th' United States o' America."},
-    {"en": "On October 23, hundreds of unionized workers of an Australian airline, Qantas, went on strike.", "pr": "On October 23, hundreds o' unionized hands from th' Australian airline, Qantas, be on strike."},
-    {"en": "The Melbourne and Brisbane airports were affected as many engineers did not work for 24 hours.", "pr": "Th' Melbourne an' Brisbane airports be impacted as many engineers did not toil fer 24 hours."},
-    {"en": "On October 15, 2024, a spokesperson for the Federal Court of Australia stated that neither the court nor Judge Michael Lee, who presided over the Bruce Lehrmann defamation trial concluded in April, had any involvement in a book written about Lee's judgement.", "pr": "On October 15, 2024, a spokesperson fer th' Federal Court o' Australia declared that neither th' court nor Judge Michael Lee, who ruled o'er th' Bruce Lehrmann defamation trial concluded in April, had any hand in a book writ about Lee's judgement."},
-    {"en": "Alex Salmond died on Saturday October 12, 2024.", "pr": "Alex Salmond passed away on Saturday October 12, 2024."},
-    {"en": "He was a former leader of the Scottish National Party (SNP) and was a member of the Scottish Parliament.", "pr": "He be a former captain o' th' Scottish National Party (SNP) an' a member o' th' Scottish Parliament."},
-    {"en": "The Ping River, Thailand's largest, reached its highest water levels in 50 years peaking at 5.3 meters on Saturday.", "pr": "Th' Ping River, th' mightiest in Thailand, reached its highest water levels in 50 years, peakin' at 5.3 meters on Saturday."},
-    {"en": "The water levels reportedly decreased to 3.85 meters by 10am Monday and were continuing to drop.", "pr": "Th' water levels be droppin' to 3.85 meters by 10am Monday an' were still fallin'."},
-    {"en": "Authorities took measurements at Nawarat Bridge.", "pr": "Th' authorities took measuremen's at Nawarat Bridge."},
-    {"en": "Chiang Mai is the largest city in northern Thailand, the capital of Chiang Mai province and the second largest city in Thailand.", "pr": "Chiang Mai be th' largest port in northern Thailand, th' capital o' Chiang Mai province an' th' second largest city in Thailand."},
-    {"en": "It is 700 km (435 mi) north of Bangkok in a mountainous region called the Thai highlands and has a population of 1.2 million people as of 2022, which is more than 66 percent of the total population of Chiang Mai province (1.8 million).", "pr": "It be 700 km (435 mi) north o' Bangkok in a mountainous region known as th' Thai highlands an' has a crew o' 1.2 million souls as o' 2022, which be more than 66 percent o' th' total crew o' Chiang Mai province (1.8 million)."},
-    {"en": "Maung Hsu Shin, also spelt Maung Su Shin, born Myo Thant, was a prominent Burmese writer, best known for his science works.", "pr": "Maung Hsu Shin, also spelt Maung Su Shin, born Myo Thant, be a notable Burmese scribbler, best known fer his science works."},
-    {"en": "He attended Myoma High School in Yangon.", "pr": "He be attendin' Myoma High School in Yangon."}
+  {
+    "en": "A History of Japanese Literature (1899), written by the diplomat and Japanese and Korean scholar William George Aston, is the oldest comprehensive survey of the large Japanese literature having been published in English.",
+    "pr": "A History o' Japanese Literature (1899), penned by th' diplomat an' scholar o' Japan an' Korea, William George Aston, be th' oldest comprehensive survey o' th' vast Japanese literature ever published in English."
+  },
+  {
+    "en": "Its range is from the Archaic period (before A.D. 700) until the so-called Tokio period in the second half of the nineteenth century and covers all lyrics, poetry, prose and children's stories.",
+    "pr": "Its span be from th' Archaic period (fore A.D. 700) till th' so-called Tokio period in th' latter half o' th' nineteenth century, coverin' all lyrics, poetry, prose, an' tales fer wee scallywags."
+  },
+  {
+    "en": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+    "pr": "We th' People o' th' United States, fer th' purpose o' creatin' a more perfect Union, settin' up Justice, ensurin' domestic Tranquility, providin' fer th' common defence, promotin' th' general Welfare, an' securin' th' Blessings o' Liberty fer ourselves an' our future kin, do ordain an' establish this Constitution fer th' United States o' America."
+  },
+  {
+    "en": "On October 23, hundreds of unionized workers of an Australian airline, Qantas, went on strike.",
+    "pr": "On October 23, hundreds o' unionized hands from th' Australian airline, Qantas, be on strike."
+  },
+  {
+    "en": "The Melbourne and Brisbane airports were affected as many engineers did not work for 24 hours.",
+    "pr": "Th' Melbourne an' Brisbane airports be impacted as many engineers did not toil fer 24 hours."
+  },
+  {
+    "en": "On October 15, 2024, a spokesperson for the Federal Court of Australia stated that neither the court nor Judge Michael Lee, who presided over the Bruce Lehrmann defamation trial concluded in April, had any involvement in a book written about Lee's judgement.",
+    "pr": "On October 15, 2024, a spokesperson fer th' Federal Court o' Australia declared that neither th' court nor Judge Michael Lee, who ruled o'er th' Bruce Lehrmann defamation trial concluded in April, had any hand in a book writ about Lee's judgement."
+  },
+  {
+    "en": "Alex Salmond died on Saturday October 12, 2024.",
+    "pr": "Alex Salmond passed away on Saturday October 12, 2024."
+  },
+  {
+    "en": "He was a former leader of the Scottish National Party (SNP) and was a member of the Scottish Parliament.",
+    "pr": "He be a former captain o' th' Scottish National Party (SNP) an' a member o' th' Scottish Parliament."
+  },
+  {
+    "en": "The Ping River, Thailand's largest, reached its highest water levels in 50 years peaking at 5.3 meters on Saturday.",
+    "pr": "Th' Ping River, th' mightiest in Thailand, reached its highest water levels in 50 years, peakin' at 5.3 meters on Saturday."
+  },
+  {
+    "en": "The water levels reportedly decreased to 3.85 meters by 10am Monday and were continuing to drop.",
+    "pr": "Th' water levels be droppin' to 3.85 meters by 10am Monday an' were still fallin'."
+  },
+  {
+    "en": "Authorities took measurements at Nawarat Bridge.",
+    "pr": "Th' authorities took measuremen's at Nawarat Bridge."
+  },
+  {
+    "en": "Chiang Mai is the largest city in northern Thailand, the capital of Chiang Mai province and the second largest city in Thailand.",
+    "pr": "Chiang Mai be th' largest port in northern Thailand, th' capital o' Chiang Mai province an' th' second largest city in Thailand."
+  },
+  {
+    "en": "It is 700 km (435 mi) north of Bangkok in a mountainous region called the Thai highlands and has a population of 1.2 million people as of 2022, which is more than 66 percent of the total population of Chiang Mai province (1.8 million).",
+    "pr": "It be 700 km (435 mi) north o' Bangkok in a mountainous region known as th' Thai highlands an' has a crew o' 1.2 million souls as o' 2022, which be more than 66 percent o' th' total crew o' Chiang Mai province (1.8 million)."
+  },
+  {
+    "en": "Maung Hsu Shin, also spelt Maung Su Shin, born Myo Thant, was a prominent Burmese writer, best known for his science works.",
+    "pr": "Maung Hsu Shin, also spelt Maung Su Shin, born Myo Thant, be a notable Burmese scribbler, best known fer his science works."
+  },
+  {
+    "en": "He attended Myoma High School in Yangon.",
+    "pr": "He be attendin' Myoma High School in Yangon."
+  },
 
+  { "en": "How was your day today?", "pr": "How be yer day today, matey?" },
+  {
+    "en": "I think it might rain later.",
+    "pr": "I reckon it might rain later, arrr."
+  },
+  {
+    "en": "Can you help me with this project?",
+    "pr": "Can ye lend a hand with this project, savvy?"
+  },
+  {
+    "en": "What do you want for dinner?",
+    "pr": "What be yer desire fer dinner, matey?"
+  },
+  {
+    "en": "I really enjoyed that movie last night.",
+    "pr": "I truly enjoyed that film last night, arrr."
+  },
+  {
+    "en": "Lets meet at the coffee shop.",
+    "pr": "Lets rendezvous at the coffee shop, yarrr."
+  },
+  {
+    "en": "Have you read any good books lately?",
+    "pr": "Have ye come across any fine tomes lately, matey?"
+  },
+  {
+    "en": "I love spending time outdoors.",
+    "pr": "I be lovin me time spent in the great outdoors, yarrr."
+  },
+  {
+    "en": "Whats your favorite season of the year?",
+    "pr": "What be yer favorite season o' the year, matey?"
+  },
+  {
+    "en": "I need to go grocery shopping this weekend.",
+    "pr": "I be needin to set sail fer the market this weekend."
+  },
+  {
+    "en": "Could you pass the salt, please?",
+    "pr": "Could ye hand over the salt, if ye please?"
+  },
+  {
+    "en": "Im planning to travel next month.",
+    "pr": "I be plannin to set sail next month, arrr."
+  },
+  {
+    "en": "Do you want to join us for lunch?",
+    "pr": "Do ye wish to join us fer lunch, matey?"
+  },
+  {
+    "en": "Ive been trying to learn a new language.",
+    "pr": "I be tryin to learn a new tongue, yarrr."
+  },
+  {
+    "en": "That restaurant has great reviews.",
+    "pr": "That eatery be gettin' grand reviews, matey."
+  },
+  {
+    "en": "Whats your favorite way to relax?",
+    "pr": "What be yer favored way to unwind, arrr?"
+  },
+  {
+    "en": "I found a great podcast to listen to.",
+    "pr": "I stumbled upon a fine podcast to lend me ear to."
+  },
+  {
+    "en": "Are you going to the party on Saturday?",
+    "pr": "Are ye headin to the shindig on Saturday, matey?"
+  },
+  {
+    "en": "Lets catch up sometime soon.",
+    "pr": "Lets have a chinwag soon, arrr."
+  },
+  {
+    "en": "I can't wait for the weekend to arrive.",
+    "pr": "I be itchin fer the weekend to come, yarrr."
+  },
+  {
+    "en": "Did you hear about the new store opening?",
+    "pr": "Did ye catch wind of the new shop settin' sail?"
+  },
+  {
+    "en": "How do you like your coffee?",
+    "pr": "How do ye fancy yer brew, matey?"
+  },
+  {
+    "en": "Whats your favorite type of music?",
+    "pr": "What be yer favored kind o' tune, arrr/"
+  },
+  {
+    "en": "I need a break from work.",
+    "pr": "I be needin a respite from me toil."
+  },
+  {
+    "en": "Have you seen the latest episode of that show?",
+    "pr": "Have ye laid yer eyes on the latest tale of that show?"
+  },
+  {
+    "en": "I enjoy cooking new recipes.",
+    "pr": "I take pleasure in whippen' up new recipes, yarrr."
+  },
+  {
+    "en": "What do you think about the weather today?",
+    "pr": "What be yer thoughts on the weather today, matey?"
+  },
+  {
+    "en": "Im excited for the concert next week.",
+    "pr": "I be all a-quiver fer the concert next week, arrr."
+  },
+  {
+    "en": "Lets go for a walk in the park.",
+    "pr": "Lets take a stroll in the park, yarrr."
+  },
+  {
+    "en": "I think I lost my keys again.",
+    "pr": "I reckon Ive misplaced me keys again, matey."
+  },
+  {
+    "en": "What time do you usually wake up?",
+    "pr": "What hour do ye usually rise from yer slumber?"
+  },
+  {
+    "en": "Id love to try that new restaurant.",
+    "pr": "Id be keen to try that new eatery, arrr."
+  },
+  {
+    "en": "Can you recommend a good movie?",
+    "pr": "Can ye suggest a fine film, matey?"
+  },
+  {
+    "en": "I just finished a great book.",
+    "pr": "I just finished a grand tome, yarrr."
+  },
+  {
+    "en": "Ive been trying to exercise more regularly.",
+    "pr": "Ive been attemptin to be more active, matey."
+  },
+  {
+    "en": "Whats your favorite thing to do on the weekend?",
+    "pr": "What be yer favorite pastime on the weekend, arrr?"
+  },
+  {
+    "en": "I need to find a new hobby.",
+    "pr": "I be needin to seek out a new pastime, yarrr."
+  },
+  {
+    "en": "Have you traveled anywhere interesting recently?",
+    "pr": "Have ye journeyed to any intriguing lands lately, matey?"
+  },
+  {
+    "en": "I really appreciate your help.",
+    "pr": "I truly treasure yer aid, arrr."
+  },
+  {
+    "en": "Whats on your mind today?",
+    "pr": "What be weighin on yer mind today, matey?"
+  },
+  {
+    "en": "I think Im coming down with a cold.",
+    "pr": "I fear I be catchin' a chill, arrr."
+  },
+  {
+    "en": "Do you have any plans for the holidays?",
+    "pr": "Do ye have any schemes fer the holidays, matey?"
+  },
+  {
+    "en": "I love watching the sunset.",
+    "pr": "I be lovin' to behold the setting sun, yarrr."
+  },
+  {
+    "en": "What kind of food do you like best?",
+    "pr": "What be the finest fare ye fancy, matey?"
+  },
+  {
+    "en": "Lets grab some ice cream later.",
+    "pr": "Lets snag some ice cream later, arrr."
+  },
+  {
+    "en": "I have a lot of work to catch up on.",
+    "pr": "Ive a heap of toil to catch up on, matey."
+  },
+  {
+    "en": "Did you hear about the new movie coming out?",
+    "pr": "Did ye hear tell of the new film makin waves?"
+  },
+  {
+    "en": "I enjoy spending time with my family.",
+    "pr": "I take joy in me time with me crew, yarrr."
+  },
+  {
+    "en": "What do you usually do for fun?",
+    "pr": "What be yer usual merry-making, matey?"
+  },
+  {
+    "en": "Id like to try something new this week.",
+    "pr": "Id like to give somethin fresh a whirl this week, arrr."
+  },
+  {
+    "en": "Whats your favorite childhood memory?",
+    "pr": "What be yer cherished memory from yer youth, matey?"
+  },
+  {
+    "en": "I could really use a vacation right now.",
+    "pr": "I could use a grand escape right about now, arrr."
+  },
+  {
+    "en": "How do you stay motivated?",
+    "pr": "How do ye keep the fire burnin, matey?"
+  },
+  {
+    "en": "I cant believe how fast this year is going.",
+    "pr": "I cant fathom how swift this year be sailin' by, yarrr."
+  },
+  {
+    "en": "Whats your favorite way to celebrate?",
+    "pr": "What be yer favored way to celebrate, matey?"
+  },
+  {
+    "en": "Im looking forward to the long weekend.",
+    "pr": "I be lookin forward to the bounteous weekend, arrr."
+  },
+  {
+    "en": "What do you think about this new trend?",
+    "pr": "What be yer take on this new trend, matey?"
+  },
+  {
+    "en": "Id like to hear your thoughts on this.",
+    "pr": "Id be keen to hear yer musings on this, arrr."
+  },
+  {
+    "en": "Can we reschedule our meeting?",
+    "pr": "Can we chart a new course for our meetin, matey?"
+  },
+  {
+    "en": "How do you feel about that decision?",
+    "pr": "How does that decision sit with ye, arrr?"
+  },
+  {
+    "en": "Did you catch the game last night?",
+    "pr": "Did ye catch the match last night, matey?"
+  },
+  {
+    "en": "Im thinking about starting a garden.",
+    "pr": "I be ponderin startin a garden, arrr."
+  },
+  {
+    "en": "Whats your favorite place to visit?",
+    "pr": "What be yer favored port o' call, matey?"
+  },
+  {
+    "en": "I need to organize my schedule better.",
+    "pr": "I need to chart me schedule better, arrr."
+  },
+  {
+    "en": "How did you spend your last vacation?",
+
+    "pr": "How did ye spend yer last escape, matey?"
+  },
+  {
+    "en": "Have you tried the new caf down the street?",
+    "pr": "Have ye set foot in the new caf down the way, arrr?"
+  },
+  {
+    "en": "I really enjoy painting in my free time.",
+    "pr": "I take great joy in brushin' colors in me free time, matey."
+  },
+  {
+    "en": "Whats your favorite way to stay active?",
+    "pr": "What be yer favored way to keep movin, arrr?"
+  },
+  {
+    "en": "Do you have any pets?",
+    "pr": "Do ye have any critters in yer crew, matey?"
+  },
+  {
+    "en": "Im looking for a good book recommendation.",
+    "pr": "I be searchin' fer a fine tome recommendation, arrr."
+  },
+  {
+    "en": "Whats the best meal youve ever had?",
+    "pr": "What be the finest feast ye ever tasted, matey?"
+  },
+  {
+    "en": "Im trying to eat healthier these days.",
+    "pr": "I be tryin to feast on healthier grub these days, arrr."
+  },
+  {
+    "en": "Whats your favorite holiday tradition?",
+    "pr": "What be yer cherished holiday tradition, matey?"
+  },
+  {
+    "en": "How do you unwind after a long day?",
+    "pr": "How do ye find yer calm after a long day, arrr?"
+  },
+  {
+    "en": "Id love to hear more about your trip.",
+    "pr": "Id be eager to hear more tales of yer voyage, matey."
+  },
+  {
+    "en": "What are your thoughts on social media?",
+    "pr": "What be yer thoughts on the chattering nets, arrr?"
+  },
+  {
+    "en": "Have you seen any good documentaries lately?",
+    "pr": "Have ye come across any fine documentaries lately, matey?"
+  },
+  {
+    "en": "What inspires you the most?",
+    "pr": "What be sparkin yer inspiration the most, arrr?"
+  },
+  {
+    "en": "Im planning a small get-together this weekend.",
+    "pr": "I be plannin' a wee gathering this weekend, matey."
+  },
+  {
+    "en": "Whats the most interesting place youve been to?",
+    "pr": "What be the most fascinatin port yeve ever visited, arrr?"
+  },
+  {
+    "en": "I enjoy listening to audiobooks while I work.",
+    "pr": "I take pleasure in listenin to tales whilst I toil, matey."
+  }
 ]
