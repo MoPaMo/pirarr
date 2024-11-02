@@ -9,7 +9,7 @@ model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 # Prepare the dataset
 # load data from .json
-with open('data/.english-pirate-translationsjson', 'r') as file:
+with open('data/english-pirate-translationsjson', 'r') as file:
     # Load the content of the file
     data = json.load(file)
 
