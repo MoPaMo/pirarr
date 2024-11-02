@@ -1366,101 +1366,647 @@
     "en": "I enjoy listening to audiobooks while I work.",
     "pr": "I take pleasure in listenin to tales whilst I toil, matey."
   },
-      
-  {"en": "What do you like to do when youre bored?", "pr": "What do ye fancy doin' when the boredom strikes, arrr?"},    
-  {"en": "Id like to learn how to play an instrument.", "pr": "Id be keen to learn to play a fine instrument, matey."},    
-  {"en": "Whats your favorite memory from school?", "pr": "What be yer cherished memory from yer learnin days, arrr?"},    
-  {"en": "How do you celebrate your birthday?", "pr": "How do ye mark yer birthday, matey?"},    
-  {"en": "Im considering taking a cooking class.", "pr": "I be ponderin enrollin' in a cookin class, arrr."},    
-  {"en": "What are your goals for this year?", "pr": "What be yer aims fer this year, matey?"},    
-  {"en": "Im trying to read more fiction this year.", "pr": "I be tryin to devour more tales of fiction this year, arrr."},    
-  {"en": "Whats your favorite family recipe?", "pr": "What be yer cherished family recipe, matey?"},    
-  {"en": "How often do you travel for work?", "pr": "How oft do ye set sail fer work, arrr?"},    
-  {"en": "Do you prefer tea or coffee?", "pr": "Do ye fancy tea or coffee, matey?"},    
-  {"en": "Whats the best advice youve ever received?", "pr": "What be the finest counsel yeve ever received, arrr?"},    
-  {"en": "How do you usually spend your weekends?", "pr": "How do ye usually pass yer weekends, matey?"},    
-  {"en": "Ive been meaning to try that new exercise class.", "pr": "Ive been meanin to give that new exercise class a whirl, arrr."},    
-  {"en": "Whats your go-to comfort food?", "pr": "What be yer go-to grub when ye seek comfort, matey?"},    
-  {"en": "Id love to visit more museums.", "pr": "Id be keen to explore more museums, arrr."},    
-  {"en": "How do you manage stress?", "pr": "How do ye navigate the storms of stress, matey?"},    
-  {"en": "Whats your favorite outdoor activity?", "pr": "What be yer favored activity in the great outdoors, arrr?"},    
-  {"en": "Im interested in learning about photography.", "pr": "I be keen on learnin the art of photography, matey."},    
-  {"en": "Whats your favorite way to communicate?", "pr": "What be yer favored way to parley, arrr?"},    
-  {"en": "Have you ever tried meditation?", "pr": "Have ye ever dabbled in the art of meditation, matey?"},    
-  {"en": "Whats the last concert you attended?", "pr": "What be the last shanty session ye attended, arrr?"},    
-  {"en": "I think its important to give back to the community.", "pr": "I reckon it be vital to give back to the crew, matey."},    
-  {"en": "What do you enjoy most about your job?", "pr": "What be the finest part of yer toil, arrr?"},    
-  {"en": "How do you keep in touch with old friends?", "pr": "How do ye keep the bonds with yer old mates, matey?"},    
-  {"en": "Im trying to be more environmentally conscious.", "pr": "I be tryin to be more mindful of the seas and shores, arrr."},    
-  {"en": "Whats your favorite thing about where you live?", "pr": "What be yer favorite treasure about yer home port, matey?"}    
 
-  {"en": "Whats your favorite restaurant in town?", "pr": "What be yer favorite eatin' place in port?"},
-  {"en": "I think we should try that new sushi place.", "pr": "I reckon we ought to sample that new sushi tavern."},
-  {"en": "How do you like to spend your weekends?", "pr": "How do ye fancy passin' yer weekends?"}, 
-  {"en": "I need to finish this book before the weekend.", "pr": "I need to wrap up this tome 'fore the weekend arrives."},
-  {"en": "What kind of movies do you enjoy?", "pr": "What sort o' moving pictures do ye fancy?"}, 
-  {"en": "Lets plan a trip to the beach next month.", "pr": "Lets plot a voyage to the shore next month."},
-  {"en": "Do you prefer summer or winter?", "pr": "Do ye favor the sunny season or the cold?"}, 
-  {"en": "Ive been watching a lot of documentaries lately.", "pr": "Ive been spyin' a fair share o' documentaries as o' late."},
-  {"en": "Can you recommend a good TV series?", "pr": "Can ye suggest a fine series on the box?"}, 
-  {"en": "Im excited to see my family this holiday season.", "pr": "I be all a-quiver to see me kin this holiday season."},
-  {"en": "Whats your favorite childhood game?", "pr": "What be yer favorite game from yer youth?"}, 
-  {"en": "I love going for long drives on the weekends.", "pr": "I adore takin' long jaunts on the weekends."},
-  {"en": "How do you feel about working from home?", "pr": "How do ye feel 'bout laborin' from yer ship?"}, 
-  {"en": "I need to find a new show to binge-watch.", "pr": "I need to hunt fer a new show to binge."},
-  {"en": "Whats the best vacation youve ever taken?", "pr": "What be the finest voyage ye ever embarked upon?"}, 
-  {"en": "Have you tried any new hobbies recently?", "pr": "Have ye taken up any new pastimes o' late?"}, 
-  {"en": "I think Im going to bake something this weekend.", "pr": "I reckon Ill be bakin' somethin' this weekend."},
-  {"en": "Whats your go-to snack when watching a movie?", "pr": "What be yer go-to nosh when spyin' a flick?"}, 
-  {"en": "I really enjoy listening to live music.", "pr": "I truly relish hearin' live tunes."}, 
-  {"en": "Do you have any plans for the upcoming weekend?", "pr": "Have ye any schemes for the approachin' weekend?"}, 
-  {"en": "Whats your favorite way to exercise?", "pr": "What be yer favored way to keep fit?"}, 
-  {"en": "Id love to learn how to surf someday.", "pr": "Id be keen to learn the art o' surf 'ere someday."}, 
-  {"en": "Whats your favorite breakfast food?", "pr": "What be yer favorite mornin' grub?"}, 
-  {"en": "Im thinking of joining a book club.", "pr": "Im ponderin' joinin' a crew fer book readin'."}, 
-  {"en": "Whats the last place you traveled to?", "pr": "What be the last port ye set sail to?"}, 
-  {"en": "Have you seen any good plays recently?", "pr": "Have ye laid eyes on any grand performances lately?"}, 
-  {"en": "I enjoy spending time at the library.", "pr": "I take pleasure in spendin' time at the book keep."}, 
-  {"en": "Whats your favorite time of day?", "pr": "What be yer favorite hour of the day?"}, 
-  {"en": "Ive been trying to drink more water lately.", "pr": "Ive been tryin' to swig more fresh water lately."}, 
-  {"en": "Whats something youve always wanted to learn?", "pr": "What be a thing yeve longed to master?"}, 
-  {"en": "How do you stay organized?", "pr": "How do ye keep yer ship in order?"}, 
-  {"en": "Whats your favorite app on your phone?", "pr": "What be yer favorite contraption on yer magic mirror?"}, 
-  {"en": "Im thinking about getting a new phone.", "pr": "Im ponderin' procurin' a new magic mirror."}, 
-  {"en": "Whats your go-to way to relax after work?", "pr": "What be yer favored way to unwind after toil?"}, 
-  {"en": "How often do you cook at home?", "pr": "How frequently do ye whip up a feast at home?"}, 
-  {"en": "Im considering adopting a pet.", "pr": "I be thinkin' of takin' in a beast."}, 
-  {"en": "What kind of music do you listen to when you work?", "pr": "What sort o' tunes do ye be listenin' to whilst ye labor?"}, 
-  {"en": "Id like to explore more hiking trails.", "pr": "Id like to chart more paths for wanderin'."}, 
-  {"en": "Whats your favorite sport to watch?", "pr": "What be yer favorite sport to spy?"}, 
-  {"en": "I enjoy playing board games with friends.", "pr": "I take joy in battlin' with mates over board games."}, 
-  {"en": "Whats the best meal youve ever cooked?", "pr": "What be the finest feast yeve ever prepared?"}, 
-  {"en": "How do you like to celebrate special occasions?", "pr": "How do ye prefer to toast special times?"}, 
-  {"en": "What do you think makes a good friend?", "pr": "What do ye reckon makes a true mate?"}, 
-  {"en": "I love trying out new recipes.", "pr": "I adore experimentin' with new cookin' potions."}, 
-  {"en": "Whats your favorite memory from this year?", "pr": "What be yer favorite tale from this year?"}, 
-  {"en": "How do you feel about social gatherings?", "pr": "How do ye feel 'bout meetin' up with others?"}, 
-  {"en": "Whats your favorite dessert?", "pr": "What be yer favorite sweet treat?"}, 
-  {"en": "Im looking forward to the new season of that show.", "pr": "I be eager fer the new season o' that tale."}, 
-  {"en": "Have you ever been to a music festival?", "pr": "Have ye ever sailed to a festival o' music?"}, 
-  {"en": "Whats something youre passionate about?", "pr": "What be a thing that sets yer heart ablaze?"}, 
-  {"en": "Im thinking of taking a yoga class.", "pr": "Im ponderin' joinin' a class fer the bendin' arts."}, 
-  {"en": "Whats your favorite thing about your job?", "pr": "What be the best part o' yer labor?"}, 
-  {"en": "How do you deal with stress?", "pr": "How do ye handle the storms o' stress?"}, 
-  {"en": "Id love to travel to Europe someday.", "pr": "Id be keen to set sail for Europe someday."}, 
-  {"en": "Whats your favorite type of cuisine?", "pr": "What be yer favorite kind o' fare?"}, 
-  {"en": "I think its important to stay active.", "pr": "I reckon it be vital to keep movin'."}, 
-  {"en": "Whats your favorite way to unwind?", "pr": "What be yer favorite way to let the sails down?"}, 
-  {"en": "Do you have any guilty pleasure shows?", "pr": "Have ye any secret shows ye love?"}, 
-  {"en": "How often do you go out for dinner?", "pr": "How often do ye venture out fer supper?"}, 
-  {"en": "What do you enjoy most about your hobbies?", "pr": "What brings ye the most joy in yer pastimes?"}, 
-  {"en": "I like to explore new places in my city.", "pr": "I fancy explorin' new ports in me city."}, 
-  {"en": "Whats your favorite outdoor activity?", "pr": "What be yer favorite venture in the open air?"}, 
-  {"en": "Ive been trying to watch more classic films.", "pr": "Ive been tryin' to spy more classic moving pictures."}, 
-  {"en": "Whats your favorite way to spend a rainy day?", "pr": "What be yer favorite way to pass a rainy day?"}, 
-  {"en": "I enjoy cooking for my friends and family.", "pr": "I take joy in preparin' feasts fer me mates and kin."}, 
-  {"en": "Whats a skill youd like to improve?", "pr": "What be a skill ye wish to sharpen?"}, 
-  {"en": "How do you feel about public speaking?", "pr": "How do ye feel 'bout addressin' the crowd?"}, 
-  {"en": "I love visiting art galleries.", "pr": "I adore droppin' by art houses."}, 
-  {"en": "Whats your favorite way to stay in touch with friends?", "pr": "What be yer favorite way to keep in conta"}
+  {
+    "en": "What do you like to do when youre bored?",
+    "pr": "What do ye fancy doin' when the boredom strikes, arrr?"
+  },
+  {
+    "en": "Id like to learn how to play an instrument.",
+    "pr": "Id be keen to learn to play a fine instrument, matey."
+  },
+  {
+    "en": "Whats your favorite memory from school?",
+    "pr": "What be yer cherished memory from yer learnin days, arrr?"
+  },
+  {
+    "en": "How do you celebrate your birthday?",
+    "pr": "How do ye mark yer birthday, matey?"
+  },
+  {
+    "en": "Im considering taking a cooking class.",
+    "pr": "I be ponderin enrollin' in a cookin class, arrr."
+  },
+  {
+    "en": "What are your goals for this year?",
+    "pr": "What be yer aims fer this year, matey?"
+  },
+  {
+    "en": "Im trying to read more fiction this year.",
+    "pr": "I be tryin to devour more tales of fiction this year, arrr."
+  },
+  {
+    "en": "Whats your favorite family recipe?",
+    "pr": "What be yer cherished family recipe, matey?"
+  },
+  {
+    "en": "How often do you travel for work?",
+    "pr": "How oft do ye set sail fer work, arrr?"
+  },
+  {
+    "en": "Do you prefer tea or coffee?",
+    "pr": "Do ye fancy tea or coffee, matey?"
+  },
+  {
+    "en": "Whats the best advice youve ever received?",
+    "pr": "What be the finest counsel yeve ever received, arrr?"
+  },
+  {
+    "en": "How do you usually spend your weekends?",
+    "pr": "How do ye usually pass yer weekends, matey?"
+  },
+  {
+    "en": "Ive been meaning to try that new exercise class.",
+    "pr": "Ive been meanin to give that new exercise class a whirl, arrr."
+  },
+  {
+    "en": "Whats your go-to comfort food?",
+    "pr": "What be yer go-to grub when ye seek comfort, matey?"
+  },
+  {
+    "en": "Id love to visit more museums.",
+    "pr": "Id be keen to explore more museums, arrr."
+  },
+  {
+    "en": "How do you manage stress?",
+    "pr": "How do ye navigate the storms of stress, matey?"
+  },
+  {
+    "en": "Whats your favorite outdoor activity?",
+    "pr": "What be yer favored activity in the great outdoors, arrr?"
+  },
+  {
+    "en": "Im interested in learning about photography.",
+    "pr": "I be keen on learnin the art of photography, matey."
+  },
+  {
+    "en": "Whats your favorite way to communicate?",
+    "pr": "What be yer favored way to parley, arrr?"
+  },
+  {
+    "en": "Have you ever tried meditation?",
+    "pr": "Have ye ever dabbled in the art of meditation, matey?"
+  },
+  {
+    "en": "Whats the last concert you attended?",
+    "pr": "What be the last shanty session ye attended, arrr?"
+  },
+  {
+    "en": "I think its important to give back to the community.",
+    "pr": "I reckon it be vital to give back to the crew, matey."
+  },
+  {
+    "en": "What do you enjoy most about your job?",
+    "pr": "What be the finest part of yer toil, arrr?"
+  },
+  {
+    "en": "How do you keep in touch with old friends?",
+    "pr": "How do ye keep the bonds with yer old mates, matey?"
+  },
+  {
+    "en": "Im trying to be more environmentally conscious.",
+    "pr": "I be tryin to be more mindful of the seas and shores, arrr."
+  },
+  {
+    "en": "Whats your favorite thing about where you live?",
+    "pr": "What be yer favorite treasure about yer home port, matey?"
+  },
+  {
+    "en": "Whats your favorite restaurant in town?",
+    "pr": "What be yer favorite eatin' place in port?"
+  },
+  {
+    "en": "I think we should try that new sushi place.",
+    "pr": "I reckon we ought to sample that new sushi tavern."
+  },
+  {
+    "en": "How do you like to spend your weekends?",
+    "pr": "How do ye fancy passin' yer weekends?"
+  },
+  {
+    "en": "I need to finish this book before the weekend.",
+    "pr": "I need to wrap up this tome 'fore the weekend arrives."
+  },
+  {
+    "en": "What kind of movies do you enjoy?",
+    "pr": "What sort o' moving pictures do ye fancy?"
+  },
+  {
+    "en": "Lets plan a trip to the beach next month.",
+    "pr": "Lets plot a voyage to the shore next month."
+  },
+  {
+    "en": "Do you prefer summer or winter?",
+    "pr": "Do ye favor the sunny season or the cold?"
+  },
+  {
+    "en": "Ive been watching a lot of documentaries lately.",
+    "pr": "Ive been spyin' a fair share o' documentaries as o' late."
+  },
+  {
+    "en": "Can you recommend a good TV series?",
+    "pr": "Can ye suggest a fine series on the box?"
+  },
+  {
+    "en": "Im excited to see my family this holiday season.",
+    "pr": "I be all a-quiver to see me kin this holiday season."
+  },
+  {
+    "en": "Whats your favorite childhood game?",
+    "pr": "What be yer favorite game from yer youth?"
+  },
+  {
+    "en": "I love going for long drives on the weekends.",
+    "pr": "I adore takin' long jaunts on the weekends."
+  },
+  {
+    "en": "How do you feel about working from home?",
+    "pr": "How do ye feel 'bout laborin' from yer ship?"
+  },
+  {
+    "en": "I need to find a new show to binge-watch.",
+    "pr": "I need to hunt fer a new show to binge."
+  },
+  {
+    "en": "Whats the best vacation youve ever taken?",
+    "pr": "What be the finest voyage ye ever embarked upon?"
+  },
+  {
+    "en": "Have you tried any new hobbies recently?",
+    "pr": "Have ye taken up any new pastimes o' late?"
+  },
+  {
+    "en": "I think Im going to bake something this weekend.",
+    "pr": "I reckon Ill be bakin' somethin' this weekend."
+  },
+  {
+    "en": "Whats your go-to snack when watching a movie?",
+    "pr": "What be yer go-to nosh when spyin' a flick?"
+  },
+  {
+    "en": "I really enjoy listening to live music.",
+    "pr": "I truly relish hearin' live tunes."
+  },
+  {
+    "en": "Do you have any plans for the upcoming weekend?",
+    "pr": "Have ye any schemes for the approachin' weekend?"
+  },
+  {
+    "en": "Whats your favorite way to exercise?",
+    "pr": "What be yer favored way to keep fit?"
+  },
+  {
+    "en": "Id love to learn how to surf someday.",
+    "pr": "Id be keen to learn the art o' surf 'ere someday."
+  },
+  {
+    "en": "Whats your favorite breakfast food?",
+    "pr": "What be yer favorite mornin' grub?"
+  },
+  {
+    "en": "Im thinking of joining a book club.",
+    "pr": "Im ponderin' joinin' a crew fer book readin'."
+  },
+  {
+    "en": "Whats the last place you traveled to?",
+    "pr": "What be the last port ye set sail to?"
+  },
+  {
+    "en": "Have you seen any good plays recently?",
+    "pr": "Have ye laid eyes on any grand performances lately?"
+  },
+  {
+    "en": "I enjoy spending time at the library.",
+    "pr": "I take pleasure in spendin' time at the book keep."
+  },
+  {
+    "en": "Whats your favorite time of day?",
+    "pr": "What be yer favorite hour of the day?"
+  },
+  {
+    "en": "Ive been trying to drink more water lately.",
+    "pr": "Ive been tryin' to swig more fresh water lately."
+  },
+  {
+    "en": "Whats something youve always wanted to learn?",
+    "pr": "What be a thing yeve longed to master?"
+  },
+  {
+    "en": "How do you stay organized?",
+    "pr": "How do ye keep yer ship in order?"
+  },
+  {
+    "en": "Whats your favorite app on your phone?",
+    "pr": "What be yer favorite contraption on yer magic mirror?"
+  },
+  {
+    "en": "Im thinking about getting a new phone.",
+    "pr": "Im ponderin' procurin' a new magic mirror."
+  },
+  {
+    "en": "Whats your go-to way to relax after work?",
+    "pr": "What be yer favored way to unwind after toil?"
+  },
+  {
+    "en": "How often do you cook at home?",
+    "pr": "How frequently do ye whip up a feast at home?"
+  },
+  {
+    "en": "Im considering adopting a pet.",
+    "pr": "I be thinkin' of takin' in a beast."
+  },
+  {
+    "en": "What kind of music do you listen to when you work?",
+    "pr": "What sort o' tunes do ye be listenin' to whilst ye labor?"
+  },
+  {
+    "en": "Id like to explore more hiking trails.",
+    "pr": "Id like to chart more paths for wanderin'."
+  },
+  {
+    "en": "Whats your favorite sport to watch?",
+    "pr": "What be yer favorite sport to spy?"
+  },
+  {
+    "en": "I enjoy playing board games with friends.",
+    "pr": "I take joy in battlin' with mates over board games."
+  },
+  {
+    "en": "Whats the best meal youve ever cooked?",
+    "pr": "What be the finest feast yeve ever prepared?"
+  },
+  {
+    "en": "How do you like to celebrate special occasions?",
+    "pr": "How do ye prefer to toast special times?"
+  },
+  {
+    "en": "What do you think makes a good friend?",
+    "pr": "What do ye reckon makes a true mate?"
+  },
+  {
+    "en": "I love trying out new recipes.",
+    "pr": "I adore experimentin' with new cookin' potions."
+  },
+  {
+    "en": "Whats your favorite memory from this year?",
+    "pr": "What be yer favorite tale from this year?"
+  },
+  {
+    "en": "How do you feel about social gatherings?",
+    "pr": "How do ye feel 'bout meetin' up with others?"
+  },
+  {
+    "en": "Whats your favorite dessert?",
+    "pr": "What be yer favorite sweet treat?"
+  },
+  {
+    "en": "Im looking forward to the new season of that show.",
+    "pr": "I be eager fer the new season o' that tale."
+  },
+  {
+    "en": "Have you ever been to a music festival?",
+    "pr": "Have ye ever sailed to a festival o' music?"
+  },
+  {
+    "en": "Whats something youre passionate about?",
+    "pr": "What be a thing that sets yer heart ablaze?"
+  },
+  {
+    "en": "Im thinking of taking a yoga class.",
+    "pr": "Im ponderin' joinin' a class fer the bendin' arts."
+  },
+  {
+    "en": "Whats your favorite thing about your job?",
+    "pr": "What be the best part o' yer labor?"
+  },
+  {
+    "en": "How do you deal with stress?",
+    "pr": "How do ye handle the storms o' stress?"
+  },
+  {
+    "en": "Id love to travel to Europe someday.",
+    "pr": "Id be keen to set sail for Europe someday."
+  },
+  {
+    "en": "Whats your favorite type of cuisine?",
+    "pr": "What be yer favorite kind o' fare?"
+  },
+  {
+    "en": "I think its important to stay active.",
+    "pr": "I reckon it be vital to keep movin'."
+  },
+  {
+    "en": "Whats your favorite way to unwind?",
+    "pr": "What be yer favorite way to let the sails down?"
+  },
+  {
+    "en": "Do you have any guilty pleasure shows?",
+    "pr": "Have ye any secret shows ye love?"
+  },
+  {
+    "en": "How often do you go out for dinner?",
+    "pr": "How often do ye venture out fer supper?"
+  },
+  {
+    "en": "What do you enjoy most about your hobbies?",
+    "pr": "What brings ye the most joy in yer pastimes?"
+  },
+  {
+    "en": "I like to explore new places in my city.",
+    "pr": "I fancy explorin' new ports in me city."
+  },
+  {
+    "en": "Whats your favorite outdoor activity?",
+    "pr": "What be yer favorite venture in the open air?"
+  },
+  {
+    "en": "Ive been trying to watch more classic films.",
+    "pr": "Ive been tryin' to spy more classic moving pictures."
+  },
+  {
+    "en": "Whats your favorite way to spend a rainy day?",
+    "pr": "What be yer favorite way to pass a rainy day?"
+  },
+  {
+    "en": "I enjoy cooking for my friends and family.",
+    "pr": "I take joy in preparin' feasts fer me mates and kin."
+  },
+  {
+    "en": "Whats a skill youd like to improve?",
+    "pr": "What be a skill ye wish to sharpen?"
+  },
+  {
+    "en": "How do you feel about public speaking?",
+    "pr": "How do ye feel 'bout addressin' the crowd?"
+  },
+  {
+    "en": "I love visiting art galleries.",
+    "pr": "I adore droppin' by art houses."
+  },
+  {
+    "en": "Whats your favorite way to stay in touch with friends?",
+    "pr": "What be yer favorite way to keep in contact with yer mates?"
+  },
+  { "en": "HAVE YOU READ ANY GOOD fine scrolls o' late?" },
+  {
+    "en": "What do you like to do when you have free time?",
+    "pr": "What do ye fancy doin' in yer spare time?"
+  },
+  {
+    "en": "Whats the last movie that made you cry?",
+    "pr": "What be the last moving picture that brought ye to tears?"
+  },
+  {
+    "en": "Im trying to be more mindful in my daily life.",
+    "pr": "I be tryin' to be more aware in me daily sailin'."
+  },
+  {
+    "en": "Whats your favorite way to treat yourself?",
+    "pr": "What be yer favorite way to pamper yerself?"
+  },
+  {
+    "en": "Have you ever tried a cooking class?",
+    "pr": "Have ye ever set foot in a cookin' class?"
+  },
+  {
+    "en": "Whats your favorite thing to do on a Sunday?",
+    "pr": "What be yer favorite pastime on the Sabbath?"
+  },
+  {
+    "en": "How do you usually celebrate your birthday?",
+    "pr": "How do ye typically mark the day ye were born?"
+  },
+  {
+    "en": "Id love to hear about your travel experiences.",
+    "pr": "Id be keen to hear tales o' yer travels."
+  },
+  {
+    "en": "Whats something that always makes you smile?",
+    "pr": "What be a thing that ne'er fails to bring a grin to yer face?"
+  },
+  {
+    "en": "How do you stay productive throughout the day?",
+    "pr": "How do ye keep the wind in yer sails all day long?"
+  },
+  {
+    "en": "Whats your favorite way to give back to the community?",
+    "pr": "What be yer favorite way to lend a hand to the crew?"
+  },
+  {
+    "en": "I enjoy going to local farmers' markets.",
+    "pr": "I take pleasure in plunderin' at local farmers' markets."
+  },
+  {
+    "en": "What do you think about remote work?",
+    "pr": "What be yer thoughts on laborin' from afar?"
+  },
+  {
+    "en": "Id like to start a garden in my backyard.",
+    "pr": "Id like to plant a patch o' greens in me backyard."
+  },
+  {
+    "en": "Whats your favorite type of exercise?",
+    "pr": "What be yer favored form o' exertion?"
+  },
+  {
+    "en": "How often do you get to see your friends?",
+    "pr": "How frequently do ye lay eyes on yer mates?"
+  },
+  {
+    "en": "Whats your favorite book genre?",
+    "pr": "What be yer favorite kind o' tales?"
+  },
+  {
+    "en": "Im interested in learning more about different cultures.",
+    "pr": "I be keen to know more 'bout diverse ways o' livin'."
+  },
+  {
+    "en": "This is an update to an existing project",
+    "pr": "'tis an update t' an existin' project"
+  },
+
+  {
+    "en": "Bread is a staple food prepared from a dough of flour (usually wheat) and water, usually by baking.",
+    "pr": "Bread be a fine food made from dough o' flour (mostly wheat) an' water, usually by bakin'."
+  },
+  {
+    "en": "Throughout recorded history and around the world, it has been an important part of many cultures' diet.",
+    "pr": "Th' world over an' through history, 'tis been a mighty part o' many a culture's grub."
+  },
+  {
+    "en": "It is one of the oldest human-made foods, having been of significance since the dawn of agriculture, and plays an essential role in both religious rituals and secular culture.",
+    "pr": "'Tis one o' th' oldest vittles man ever made, important since th' dawn o' farmin', an' a key role in both religious rites an' every-day ways."
+  },
+  {
+    "en": "Bread may be leavened by naturally occurring microbes (e.g. sourdough), chemicals (e.g. baking soda), industrially produced yeast, or high-pressure aeration, which creates the gas bubbles that fluff up bread.",
+    "pr": "Bread can be made fluffy by natural beasties (like sourdough), chemicals (like bakin' soda), man-made yeast, or high-pressure air blowin', makin' them bubbles that fluff it up."
+  },
+  {
+    "en": "In many countries, commercial bread often contains additives to improve flavor, texture, color, shelf life, nutrition, and ease of production.",
+    "pr": "In many lands, store-bought bread be full o' add-ins to better th' taste, feel, color, lastin' power, health, an' easiness o' makin'."
+  },
+  {
+    "en": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure.",
+    "pr": "A door be a hinged or movin' plank that lets folk in or out o' an enclosure."
+  },
+  {
+    "en": "The created opening in the wall is a doorway or portal.",
+    "pr": "Th' hole in th' wall be called a doorway or portal."
+  },
+  {
+    "en": "A door's essential and primary purpose is to provide security by controlling access to the doorway (portal).",
+    "pr": "A door's main purpose be providin' security by guardin' access to th' portal."
+  },
+  {
+    "en": "Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle.",
+    "pr": "Usually, 'tis a plank that fits th' doorway o' a buildin', room, or ship."
+  },
+  {
+    "en": "Doors are generally made of a material suited to the door's task.",
+    "pr": "Doors be made o' what be best fer th' job."
+  },
+  {
+    "en": "They are commonly attached by hinges, but can move by other means, such as slides or counterbalancing.",
+    "pr": "They usually swing on hinges, but can slide or balance in strange ways too."
+  },
+  {
+    "en": "The door may be able to move in various ways (at angles away from the doorway/portal, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress.",
+    "pr": "A door can open in many ways (swingin', slidin', foldin', or spinnin' on an axis) to let in or keep out folks."
+  },
+  {
+    "en": "In most cases, a door's interior matches its exterior side.",
+    "pr": "In most cases, th' inside o' a door looks like th' outside."
+  },
+  {
+    "en": "But in other cases (e.g., a vehicle door) the two sides are radically different.",
+    "pr": "But in other cases (like a ship door) th' sides may be as different as day an' night."
+  },
+  {
+    "en": "A window is an opening in a wall, door, roof, or vehicle that allows the exchange of light and may also allow the passage of sound and sometimes air.",
+    "pr": "A window be an openin' in a wall, door, roof, or ship that lets in light an' sometimes sound an' air."
+  },
+  {
+    "en": "Modern windows are usually glazed or covered in some other transparent or translucent material, a sash set in a frame in the opening; the sash and frame are also referred to as a window.",
+    "pr": "Modern windows be usually glazed or covered with clear stuff, with a sash set in a frame; both together be called a window."
+  },
+  {
+    "en": "Many glazed windows may be opened, to allow ventilation, or closed to exclude inclement weather.",
+    "pr": "Many a glazed window can open fer fresh air, or be shut tight against foul weather."
+  },
+  {
+    "en": "Windows may have a latch or similar mechanism to lock the window shut or to hold it open by various amounts.",
+    "pr": "Windows may have a latch or somethin' to lock it shut or hold it open a bit."
+  },
+  {
+    "en": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat or slightly angled seat and a back-rest.",
+    "pr": "A chair be a kind o' seat, usually fer one, with legs, a seat, an' a back-rest."
+  },
+  {
+    "en": "It may be made of wood, metal, or synthetic materials, and may be padded or upholstered in various colors and fabrics.",
+    "pr": "It might be made o' wood, metal, or strange new materials, an' could be padded or covered in colors an' cloth."
+  },
+  {
+    "en": "The face is the front of an animal's head that features the eyes, nose and mouth, and through which animals express many of their emotions.",
+    "pr": "Th' face be th' front o' an animal's head, with eyes, nose, an' mouth, showin' many feelin's."
+  },
+  {
+    "en": "The face is crucial for human identity, and damage such as scarring or developmental deformities may affect the psyche adversely.",
+    "pr": "Th' face be key to a person's self, an' harm like scarrin' or deformity can trouble th' mind."
+  },
+  {
+    "en": "Emotions are physical and mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure.",
+    "pr": "Emotions be feelin's o' th' body an' mind, roused by changes within, tied to thoughts, acts, an' pleasure or pain."
+  },
+  {
+    "en": "There is no scientific consensus on a definition.",
+    "pr": "There be no grand answer from th' scholars on what emotions truly be."
+  },
+  {
+    "en": "Emotions are often intertwined with mood, temperament, personality, disposition, or creativity.",
+    "pr": "Emotions be oft mixed with mood, temper, character, disposition, or creativeness."
+  },
+  {
+    "en": "Pleasure is experience that feels good, that involves the enjoyment of something.",
+    "pr": "Pleasure be a feelin' that brings joy, a savin' o' somethin' pleasant."
+  },
+  {
+    "en": "It contrasts with pain or suffering, which are forms of feeling bad.",
+    "pr": "Pleasure be different from pain or sufferin', which be feelin's o' bad sorts."
+  },
+  {
+    "en": "It is closely related to value, desire and action: humans and other conscious animals find pleasure enjoyable, positive or worthy of seeking.",
+    "pr": "Pleasure be tied to worth, want, an' doin': folk an' other beasties find it joyful, good, or worth chasin'."
+  },
+  {
+    "en": "A great variety of activities may be experienced as pleasurable, like eating, having sex, listening to music or playing games.",
+    "pr": "Many a thing brings pleasure, like eatin', lovin', listenin' to music, or gamin'."
+  },
+  {
+    "en": "Pleasure is part of various other mental states such as ecstasy, euphoria and flow.",
+    "pr": "Pleasure be part o' other states o' mind like ecstasy, euphoria, an' flow."
+  },
+  {
+    "en": "Happiness and well-being are closely related to pleasure but not identical with it.",
+    "pr": "Happiness an' well-bein' be close kin to pleasure but not th' same."
+  },
+  {
+    "en": "There is no general agreement as to whether pleasure should be understood as a sensation, a quality of experiences, an attitude to experiences or otherwise.",
+    "pr": "There be no clear answer on if pleasure be a feelin', a quality o' things, or an attitude, or else."
+  },
+  {
+    "en": "Pleasure plays a central role in the family of philosophical theories known as hedonism.",
+    "pr": "Pleasure be central in th' thinkin' family o' hedonism."
+  },
+  {
+    "en": "Happiness is a complex and multifaceted emotion that encompasses a range of positive feelings, from contentment to intense joy.",
+    "pr": "Happiness be a tricky, many-sided feelin', from contentment to deep joy."
+  },
+  {
+    "en": "It is often associated with positive life experiences, such as achieving goals, spending time with loved ones, or engaging in enjoyable activities.",
+    "pr": "'Tis often linked to good life moments, like reachin' goals, bein' with loved ones, or doin' fun things."
+  },
+  {
+    "en": "However, happiness can also arise spontaneously, without any apparent external cause.",
+    "pr": "But happiness can sometimes come on its own, with no clear cause from th' outside."
+  },
+  {
+    "en": "A smile is a facial expression formed primarily by flexing the muscles at the sides of the mouth.",
+    "pr": "A smile be a face twist made by pullin' th' sides o' th' mouth."
+  },
+  {
+    "en": "Some smiles include a contraction of the muscles at the corner of the eyes, an action known as a Duchenne smile.",
+    "pr": "Some smiles involve pullin' th' muscles at th' eye corners, known as a Duchenne smile."
+  },
+  {
+    "en": "Among humans, a smile expresses delight, sociability, happiness, joy, or amusement.",
+    "pr": "To humans, a smile shows delight, friendliness, joy, or amusement."
+  },
+  {
+    "en": "It is distinct from a similar but usually involuntary expression of anxiety known as a grimace.",
+    "pr": "'Tis different from th' involuntary anxious face known as a grimace."
+  },
+  {
+    "en": "Although cross-cultural studies have shown that smiling is a means of communication throughout the world, there are large differences among different cultures, religions, and societies, with some using smiles to convey confusion, embarrassment or awkwardness.",
+    "pr": "Though smilin' be a way o' communicatin' worldwide, cultures differ much, with some usin' smiles fer confusion, embarrassment, or awkwardness."
+  },
+  {
+    "en": "The income gap between the biggest and smallest farms in Europe has doubled in the past 15 years and hit record levels at the same time as the number of small farms has collapsed, a Guardian analysis of agricultural income data has found.",
+    "pr": "The income gap between the biggest 'n smallest farms in Europe has doubled in the past 15 years 'n hit log levels at the same time as the number o' wee farms has collapsed, a Guardian analysis o' agricultural income data has found."
+  },
+  {
+    "en": "The Rhine overflowed last winter, covering fields miles from the river and in some places leaving just the tops of trees visible.",
+    "pr": "The Rhine overflowed last winter, coverin' fields miles from the river 'n in some places leavin' jus' the tops o' trees visible."
+  },
+  {
+    "en": "But Thomas Bollig, who farms just a few miles from the banks of the Rhine, was not worried.",
+    "pr": "But Twin-Pistols Thomas Bollig, who farms jus' a few miles from the banks o' the Rhine, was nah worried."
+  },
+  {
+    "en": "Even as floods inundated the fields of his neighbours, making sowing impossible, his holdings were largely unaffected.",
+    "pr": "Even as floods inundated the fields o' his neighbours, makin' sowin' impossible, his holdings were largely unaffected."
+  },
+  {
+    "en": "Bollig farms organically, and the natural methods he uses to improve his soil allow his fields to hold more water when it rains, and release it gradually, coping well with floods and droughts.",
+    "pr": "Bollig farms organically, 'n the natural methods he uses t' improve his soil allow his fields t' hold more water when it rains, 'n release it gradually, copin' well wit' floods 'n droughts."
+  }
 ]
