@@ -836,7 +836,8 @@
   {
     "en": "prepare the ship for an upcoming storm",
     "pr": "batten down the hatches"
-  },{
+  },
+  {
     "en": "prepare for an upcoming storm",
     "pr": "batten down the hatches"
   },
@@ -875,6 +876,127 @@
   { "en": "chest full of treasure", "pr": "coffer" },
   { "en": "type of sword used by pirates", "pr": "cutlass" },
   { "en": "gold coins", "pr": "doubloons" },
-  { "en": "coins", "pr": "pieces of eight" }.
+  { "en": "coins", "pr": "pieces of eight" },
+
+  {
+    "en": "This is a basic HTML starter project you can build on however you like.",
+    "pr": "This be a simple HTML starter project ye can build upon however ye fancy."
+  },
+  { "en": "No need to save.", "pr": "No need t' save, matey." },
+  {
+    "en": "While you develop your site, your changes will happen immediately in the preview window.",
+    "pr": "While ye be workin' on yer site, yer changes will appear immediately in the preview window."
+  },
+  {
+    "en": "On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS.",
+    "pr": "On the port side, ye’ll spot the files that make up yer site, includin' HTML, JavaScript, and CSS."
+  },
+  {
+    "en": "You can upload assets like images or audio in assets.",
+    "pr": "Ye can stash assets like images or audio in the assets chest."
+  },
+  {
+    "en": "The rest is up to you and your imagination.",
+    "pr": "The rest be up to ye and yer wild imaginings."
+  },
+  {
+    "en": "Your chats are private, and are never saved or used to train AI models.",
+    "pr": "Yer chats be kept private, never saved nor used t' train AI beasts."
+  },
+  {
+    "en": "Try the recently added open-source Llama 3.1 and Mixtral.",
+    "pr": "Try out the newly added open-source beasts, Llama 3.1 and Mixtral."
+  },
+  {
+    "en": "Daniel Boone (November 2, 1734 – September 26, 1820) was an American pioneer and frontiersman.",
+    "pr": "Daniel Boone (November 2, 1734 – September 26, 1820) be an American pioneer and frontiersman."
+  },
+  {
+    "en": "In 1775, he blazed the Wilderness Road through the Cumberland Gap into Kentucky, despite resistance from Native Americans; by the end of the 18th century, more than 200,000 people had entered Kentucky by following the route marked by Boone.",
+    "pr": "In 1775, he blazed the Wilderness Road through the Cumberland Gap into Kentucky, despite resistance from native folk; by century’s end, more than 200,000 souls had entered Kentucky by followin' Boone’s trail."
+  },
+  {
+    "en": "He was adopted into the Shawnee tribe in 1778 but resigned after his son was killed by members.",
+    "pr": "He be adopted by the Shawnee tribe in 1778 but left after his son be slain by members."
+  },
+  {
+    "en": "In April 1781, Boone was elected to the Virginia General Assembly.",
+    "pr": "In April 1781, Boone be elected to the Virginia General Assembly."
+  },
+  {
+    "en": "An account of his adventures was published in 1784, making him famous in America and Europe.",
+    "pr": "A tale of his adventures be published in 1784, makin' him famous in America and across the seas."
+  },
+  {
+    "en": "After the Revolutionary War, he worked as a surveyor and merchant but went into debt as a Kentucky land speculator.",
+    "pr": "After the War o' Independence, he worked as a surveyor and merchant but sank into debt as a Kentucky land speculator."
+  },
+  {
+    "en": "In 1799, Boone resettled in Missouri, where he spent most of his remaining life.",
+    "pr": "In 1799, Boone resettled in Missouri, where he spent most o' his remainin' days."
+  },
+  {
+    "en": "After his death, he was the subject of works of fiction; his adventures helped create the archetypal frontier hero of American folklore.",
+    "pr": "After his passin', he became the subject o' many tales; his exploits helped craft the archetype o' the frontier hero in American lore."
+  },
+  {
+    "en": "The Edmonds Band Rotunda is a rotunda in Christchurch, New Zealand.",
+    "pr": "The Edmonds Band Rotunda be a rotunda in Christchurch, New Zealand."
+  },
+  {
+    "en": "Created by baking powder manufacturer Thomas Edmonds in 1929 to celebrate his 50th year of living in the city, it was used initially as a place for brass bands to play music.",
+    "pr": "Built by Thomas Edmonds, a maker o' bakin' powder, in 1929 to mark his 50th year in the city, it first served as a spot fer brass bands t' play their tunes."
+  },
+  {
+    "en": "It was converted to a restaurant in the 1980s.",
+    "pr": "It be turned into a tavern in the 1980s."
+  },
+  {
+    "en": "The 2010 and 2011 Christchurch earthquakes caused significant damage to the rotunda, and it had to be deconstructed.",
+    "pr": "The great quakes o' 2010 and 2011 ravaged the rotunda, and it had t' be taken down."
+  },
+  {
+    "en": "After being rebuilt, the rotunda re-opened in 2021 and is now used for performances.",
+    "pr": "After bein' rebuilt, the rotunda opened again in 2021, now servin' fer performances."
+  },
+  {
+    "en": "Isolated on various islands around the Indian Ocean, kestrel populations evolved into different species, like Darwin's finches.",
+    "pr": "Isolated on islands 'round the Indian Ocean, kestrel populations evolved into many different kinds, like Darwin's finches."
+  },
+  {
+    "en": "Behaviour remains similar to other small species of Falco (such as the common kestrel, Falco tinnunculus) except on (originally) forested Mauritius where kestrels hunt arboreally more like hawks.",
+    "pr": "Their ways be similar t' other small hawks (like the common kestrel, Falco tinnunculus) 'cept on Mauritius, where kestrels hunt in the trees like hawks."
+  },
+  {
+    "en": "Due to the scarcity of mammals on oceanic islands, several species have adopted a diet containing many Phelsuma and other geckos.",
+    "pr": "With few mammals on ocean islands, some species feast on Phelsuma and other geckos."
+  },
+  {
+    "en": "The species can be distinguished by coloration, but all except the banded kestrel share rich brown wings with black spotting.",
+    "pr": "These kinds can be told apart by color, though all but the banded kestrel share rich brown wings with black spots."
+  },
+  {
+    "en": "Sexes are alike in color except in the spotted kestrel, where differences are minor.",
+    "pr": "Male and female be alike in color save fer the spotted kestrel, where the differences be slight."
+  },
+  {
+    "en": "As usual in birds of prey, females are larger than males; considerably so in some of these species as this assists resource partitioning.",
+    "pr": "As be common in birds o' prey, females be bigger than males; far more so in some kinds, as this helps divvy up resources."
+  },
+    {"en": "A History of Japanese Literature (1899), written by the diplomat and Japanese and Korean scholar William George Aston, is the oldest comprehensive survey of the large Japanese literature having been published in English.", "pr": "A History o' Japanese Literature (1899), penned by th' diplomat an' scholar o' Japan an' Korea, William George Aston, be th' oldest comprehensive survey o' th' vast Japanese literature ever published in English."},
+    {"en": "Its range is from the Archaic period (before A.D. 700) until the so-called Tokio period in the second half of the nineteenth century and covers all lyrics, poetry, prose and children's stories.", "pr": "Its span be from th' Archaic period (fore A.D. 700) till th' so-called Tokio period in th' latter half o' th' nineteenth century, coverin' all lyrics, poetry, prose, an' tales fer wee scallywags."},
+    {"en": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.", "pr": "We th' People o' th' United States, fer th' purpose o' creatin' a more perfect Union, settin' up Justice, ensurin' domestic Tranquility, providin' fer th' common defence, promotin' th' general Welfare, an' securin' th' Blessings o' Liberty fer ourselves an' our future kin, do ordain an' establish this Constitution fer th' United States o' America."},
+    {"en": "On October 23, hundreds of unionized workers of an Australian airline, Qantas, went on strike.", "pr": "On October 23, hundreds o' unionized hands from th' Australian airline, Qantas, be on strike."},
+    {"en": "The Melbourne and Brisbane airports were affected as many engineers did not work for 24 hours.", "pr": "Th' Melbourne an' Brisbane airports be impacted as many engineers did not toil fer 24 hours."},
+    {"en": "On October 15, 2024, a spokesperson for the Federal Court of Australia stated that neither the court nor Judge Michael Lee, who presided over the Bruce Lehrmann defamation trial concluded in April, had any involvement in a book written about Lee's judgement.", "pr": "On October 15, 2024, a spokesperson fer th' Federal Court o' Australia declared that neither th' court nor Judge Michael Lee, who ruled o'er th' Bruce Lehrmann defamation trial concluded in April, had any hand in a book writ about Lee's judgement."},
+    {"en": "Alex Salmond died on Saturday October 12, 2024.", "pr": "Alex Salmond passed away on Saturday October 12, 2024."},
+    {"en": "He was a former leader of the Scottish National Party (SNP) and was a member of the Scottish Parliament.", "pr": "He be a former captain o' th' Scottish National Party (SNP) an' a member o' th' Scottish Parliament."},
+    {"en": "The Ping River, Thailand's largest, reached its highest water levels in 50 years peaking at 5.3 meters on Saturday.", "pr": "Th' Ping River, th' mightiest in Thailand, reached its highest water levels in 50 years, peakin' at 5.3 meters on Saturday."},
+    {"en": "The water levels reportedly decreased to 3.85 meters by 10am Monday and were continuing to drop.", "pr": "Th' water levels be droppin' to 3.85 meters by 10am Monday an' were still fallin'."},
+    {"en": "Authorities took measurements at Nawarat Bridge.", "pr": "Th' authorities took measuremen's at Nawarat Bridge."},
+    {"en": "Chiang Mai is the largest city in northern Thailand, the capital of Chiang Mai province and the second largest city in Thailand.", "pr": "Chiang Mai be th' largest port in northern Thailand, th' capital o' Chiang Mai province an' th' second largest city in Thailand."},
+    {"en": "It is 700 km (435 mi) north of Bangkok in a mountainous region called the Thai highlands and has a population of 1.2 million people as of 2022, which is more than 66 percent of the total population of Chiang Mai province (1.8 million).", "pr": "It be 700 km (435 mi) north o' Bangkok in a mountainous region known as th' Thai highlands an' has a crew o' 1.2 million souls as o' 2022, which be more than 66 percent o' th' total crew o' Chiang Mai province (1.8 million)."},
+    {"en": "Maung Hsu Shin, also spelt Maung Su Shin, born Myo Thant, was a prominent Burmese writer, best known for his science works.", "pr": "Maung Hsu Shin, also spelt Maung Su Shin, born Myo Thant, be a notable Burmese scribbler, best known fer his science works."},
+    {"en": "He attended Myoma High School in Yangon.", "pr": "He be attendin' Myoma High School in Yangon."}
 
 ]
