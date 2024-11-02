@@ -8,29 +8,30 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 # Prepare the dataset
-# load data from .json
-with open('data/english-pirate-translationsjson', 'r') as file:
-    # Load the content of the file
-    data = json.load(file)
+dataset = load_dataset("json", data_files="data/english-pirate-translations.json")
 
-dataset = load_dataset("json", data_files=data)
+# Split the dataset into train and validation sets
+dataset = dataset["train"].train_test_split(test_size=0.1)  # 10% for validation
 
 # Tokenize inputs
 def preprocess_function(examples):
-    inputs = [ex["en"] for ex in examples]
-    targets = [ex["pr"] for ex in examples]
+    inputs = examples["en"]
+    targets = examples["pr"]
     model_inputs = tokenizer(inputs, max_length=32, truncation=True, padding="max_length")
     labels = tokenizer(targets, max_length=32, truncation=True, padding="max_length").input_ids
     model_inputs["labels"] = labels
     return model_inputs
 
-tokenized_data = dataset.map(preprocess_function, batched=True)
+# Process both train and validation sets
+tokenized_train = dataset["train"].map(preprocess_function, batched=True)
+tokenized_validation = dataset["test"].map(preprocess_function, batched=True)
 
 # Training arguments
 training_args = TrainingArguments(
     output_dir="./pirate_translator",
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     per_device_train_batch_size=8,
+    per_device_eval_batch_size=8,  # Added eval batch size
     num_train_epochs=3,
     save_steps=10,
     save_total_limit=2,
@@ -39,7 +40,8 @@ training_args = TrainingArguments(
 trainer = Trainer(
     model=model,
     args=training_args,
-    train_dataset=tokenized_data["train"],
+    train_dataset=tokenized_train,
+    eval_dataset=tokenized_validation,  # Added evaluation dataset
 )
 
 trainer.train()
