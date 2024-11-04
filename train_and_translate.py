@@ -26,8 +26,8 @@ def train_model():
 
     def preprocess_function(examples):
         inputs = ["translate English to Pirate: " + text for text in examples["en"]]
-        targets = examples["pr"]
-        
+        targets = [text if text is not None else "" for text in examples["pr"]]  # Replace None with empty strings
+
         model_inputs = tokenizer(inputs, max_length=128, truncation=True, padding="max_length")
         labels = tokenizer(targets, max_length=128, truncation=True, padding="max_length").input_ids
         model_inputs["labels"] = labels

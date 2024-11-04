@@ -293,3 +293,4 @@ cython_debug/
 #.idea/
 
 myenv
+pirate_translator

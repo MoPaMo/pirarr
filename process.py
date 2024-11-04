@@ -19,14 +19,15 @@ dataset = load_dataset("json", data_files="data/english-pirate-translations.json
 dataset = dataset["train"].train_test_split(test_size=0.1)
 
 def preprocess_function(examples):
-    # Add a prefix to help T5 understand the task
     inputs = ["translate English to Pirate: " + text for text in examples["en"]]
-    targets = examples["pr"]
-    
+    targets = [text if text is not None else "" for text in examples["pr"]]  # Replace None with empty strings
+
     model_inputs = tokenizer(inputs, max_length=128, truncation=True, padding="max_length")
     labels = tokenizer(targets, max_length=128, truncation=True, padding="max_length").input_ids
     model_inputs["labels"] = labels
     return model_inputs
+
+
 
 print("Preprocessing datasets...")
 tokenized_train = dataset["train"].map(preprocess_function, batched=True)
