@@ -3297,5 +3297,475 @@
   {
     "en": "For me, at least, there was no secret about the matter, for I was, in a way, a sharer in his alarms.",
     "pr": "Fer me, at least, thar be no secret 'bout th' matter, fer I was, in a way, a sharer in his alarms."
-  }
+  },
+  {
+    "en": "Hello, how are you today",
+    "pr": "Ahoy, how ye be farin' today, matey?"
+  },
+  { "en": "Break the ice", "pr": "Shatter the freeze" },
+  { "en": "Bite the bullet", "pr": "Chomp the cannonball" },
+  { "en": "Burn the midnight oil", "pr": "Set the lantern ablaze" },
+  { "en": "Hit the nail on the head", "pr": "Smash the peg on the skull" },
+  {
+    "en": "Let the cat out of the bag",
+    "pr": "Release the feline from the sack"
+  },
+  { "en": "Piece of cake", "pr": "Slice of treasure" },
+  { "en": "Spill the beans", "pr": "Sow the seeds of truth" },
+  { "en": "Under the weather", "pr": "Beneath the stormy skies" },
+  { "en": "Cost an arm and a leg", "pr": "Costs a hand and a peg leg" },
+  { "en": "Kick the bucket", "pr": "Boot the barrel" },
+  { "en": "Once in a blue moon", "pr": "Once in a sapphire tide" },
+  { "en": "The ball is in your court", "pr": "The cannonball be in yer hands" },
+  { "en": "Throw in the towel", "pr": "Cast away the sail" },
+  {
+    "en": "Caught between a rock and a hard place",
+    "pr": "Trapped 'twixt a boulder and a storm"
+  },
+  { "en": "Barking up the wrong tree", "pr": "Yappin' at the wrong mast" },
+  { "en": "A blessing in disguise", "pr": "A treasure in disguise" },
+  {
+    "en": "Burning the candle at both ends",
+    "pr": "Lighting the lantern at both ports"
+  },
+  { "en": "Caught red-handed", "pr": "Snagged with the booty" },
+  {
+    "en": "Don't count your chickens before they hatch",
+    "pr": "Don’t tally yer parrots 'fore they squawk"
+  },
+  {
+    "en": "Every cloud has a silver lining",
+    "pr": "Every storm hides a glimmer of gold"
+  },
+  { "en": "Get a taste of your own medicine", "pr": "Savor yer own grog" },
+  {
+    "en": "Hit the ground running",
+    "pr": "Land on yer feet like a true sailor"
+  },
+  { "en": "In the heat of the moment", "pr": "In the fury of the squall" },
+  { "en": "Jump on the bandwagon", "pr": "Climb aboard the ship" },
+  { "en": "Keep your chin up", "pr": "Hold yer head high, matey" },
+  { "en": "Let sleeping dogs lie", "pr": "Leave the snoozin' sea dogs be" },
+  { "en": "Make a long story short", "pr": "Cut to the chase, matey" },
+  { "en": "Miss the boat", "pr": "Miss the ship" },
+  { "en": "No pain, no gain", "pr": "No toil, no treasure" },
+  { "en": "On the ball", "pr": "On the lookout" },
+  { "en": "Out of the blue", "pr": "From the depths of the sea" },
+  { "en": "Pull someone's leg", "pr": "Yankin' a matey's peg" },
+  {
+    "en": "Put all your eggs in one basket",
+    "pr": "Stow all yer doubloons in one chest"
+  },
+  { "en": "Read between the lines", "pr": "Spy the secrets in the scroll" },
+  { "en": "See eye to eye", "pr": "Gaze at the horizon together" },
+  { "en": "Sit on the fence", "pr": "Perch on the rail" },
+  { "en": "Speak of the devil", "pr": "Mention the scallywag" },
+  { "en": "The best of both worlds", "pr": "The finest of both seas" },
+  {
+    "en": "The early bird catches the worm",
+    "pr": "The first mate snags the fish"
+  },
+  { "en": "The elephant in the room", "pr": "The leviathan in the hold" },
+  { "en": "Throw caution to the wind", "pr": "Cast yer fears to the sea" },
+  { "en": "Turn a blind eye", "pr": "Close one eye to the plunder" },
+  { "en": "Under the gun", "pr": "Under the cannon's glare" },
+  { "en": "When pigs fly", "pr": "When sea turtles sail" },
+  {
+    "en": "You can't judge a book by its cover",
+    "pr": "Ye can't judge a treasure by its chest"
+  },
+
+  { "en": "Break the ice", "pr": "Shatter the freeze" },
+  { "en": "Bite the bullet", "pr": "Chomp the cannonball" },
+  { "en": "Burn the midnight oil", "pr": "Set the lantern ablaze" },
+  { "en": "Hit the nail on the head", "pr": "Smash the peg on the skull" },
+  {
+    "en": "Let the cat out of the bag",
+    "pr": "Release the feline from the sack"
+  },
+  { "en": "Piece of cake", "pr": "Slice of treasure" },
+  { "en": "Spill the beans", "pr": "Sow the seeds of truth" },
+  { "en": "Under the weather", "pr": "Beneath the stormy skies" },
+  { "en": "Cost an arm and a leg", "pr": "Costs a hand and a peg leg" },
+  { "en": "Kick the bucket", "pr": "Boot the barrel" },
+  { "en": "Once in a blue moon", "pr": "Once in a sapphire tide" },
+  { "en": "The ball is in your court", "pr": "The cannonball be in yer hands" },
+  { "en": "Throw in the towel", "pr": "Cast away the sail" },
+  {
+    "en": "Caught between a rock and a hard place",
+    "pr": "Trapped 'twixt a boulder and a storm"
+  },
+  { "en": "Barking up the wrong tree", "pr": "Yappin' at the wrong mast" },
+  { "en": "A blessing in disguise", "pr": "A treasure in disguise" },
+  {
+    "en": "Burning the candle at both ends",
+    "pr": "Lighting the lantern at both ports"
+  },
+  { "en": "Caught red-handed", "pr": "Snagged with the booty" },
+  {
+    "en": "Don't count your chickens before they hatch",
+    "pr": "Don’t tally yer parrots 'fore they squawk"
+  },
+  {
+    "en": "Every cloud has a silver lining",
+    "pr": "Every storm hides a glimmer of gold"
+  },
+  { "en": "Get a taste of your own medicine", "pr": "Savor yer own grog" },
+  {
+    "en": "Hit the ground running",
+    "pr": "Land on yer feet like a true sailor"
+  },
+  { "en": "In the heat of the moment", "pr": "In the fury of the squall" },
+  { "en": "Jump on the bandwagon", "pr": "Climb aboard the ship" },
+  { "en": "Keep your chin up", "pr": "Hold yer head high, matey" },
+  { "en": "Let sleeping dogs lie", "pr": "Leave the snoozin' sea dogs be" },
+  { "en": "Make a long story short", "pr": "Cut to the chase, matey" },
+  { "en": "Miss the boat", "pr": "Miss the ship" },
+  { "en": "No pain, no gain", "pr": "No toil, no treasure" },
+  { "en": "On the ball", "pr": "On the lookout" },
+  { "en": "Out of the blue", "pr": "From the depths of the sea" },
+  { "en": "Pull someone's leg", "pr": "Yankin' a matey's peg" },
+  {
+    "en": "Put all your eggs in one basket",
+    "pr": "Stow all yer doubloons in one chest"
+  },
+  { "en": "Read between the lines", "pr": "Spy the secrets in the scroll" },
+  { "en": "See eye to eye", "pr": "Gaze at the horizon together" },
+  { "en": "Sit on the fence", "pr": "Perch on the rail" },
+  { "en": "Speak of the devil", "pr": "Mention the scallywag" },
+  { "en": "The best of both worlds", "pr": "The finest of both seas" },
+  {
+    "en": "The early bird catches the worm",
+    "pr": "The first mate snags the fish"
+  },
+  { "en": "The elephant in the room", "pr": "The leviathan in the hold" },
+  { "en": "Throw caution to the wind", "pr": "Cast yer fears to the sea" },
+  { "en": "Turn a blind eye", "pr": "Close one eye to the plunder" },
+  { "en": "Under the gun", "pr": "Under the cannon's glare" },
+  { "en": "When pigs fly", "pr": "When sea turtles sail" },
+  {
+    "en": "You can't judge a book by its cover",
+    "pr": "Ye can't judge a treasure by its chest"
+  },
+  {
+    "en": "Actions speak louder than words",
+    "pr": "Deeds be louder than shouts"
+  },
+  { "en": "A penny for your thoughts", "pr": "A doubloon for yer musings" },
+  {
+    "en": "Bite the hand that feeds you",
+    "pr": "Chomp the hand that gives ye grub"
+  },
+  { "en": "Curiosity killed the cat", "pr": "Inquisitiveness sunk the feline" },
+  {
+    "en": "Don't bite off more than you can chew",
+    "pr": "Don’t take on more than ye can swallow"
+  },
+  { "en": "Every rose has its thorn", "pr": "Every bloom hides a prick" },
+  {
+    "en": "Fool me once, shame on you; fool me twice, shame on me",
+    "pr": "Trick me once, shame be on ye; trick me twice, shame be on me"
+  },
+  { "en": "Get your act together", "pr": "Gather yer crew" },
+  { "en": "Hit the books", "pr": "Plunder the tomes" },
+  { "en": "In the blink of an eye", "pr": "In the flash of a lantern" },
+  { "en": "It's not rocket science", "pr": "It ain't sorcery" },
+  { "en": "Jumping on the bandwagon", "pr": "Climbing aboard the galleon" },
+  {
+    "en": "Keep your friends close, but your enemies closer",
+    "pr": "Keep yer mates near, but yer foes nearer"
+  },
+  {
+    "en": "Let the chips fall where they may",
+    "pr": "Let the coins land as they will"
+  },
+  {
+    "en": "Make a mountain out of a molehill",
+    "pr": "Turn a pebble into a boulder"
+  },
+  {
+    "en": "No use crying over spilled milk",
+    "pr": "No point weepin' over spilled grog"
+  },
+  { "en": "Out of sight, out of mind", "pr": "Out of view, out of thought" },
+  {
+    "en": "Put your money where your mouth is",
+    "pr": "Put yer doubloons where yer tongue be"
+  },
+  {
+    "en": "Rome wasn't built in a day",
+    "pr": "The great ship be not built in a tide"
+  },
+  {
+    "en": "The grass is always greener on the other side",
+    "pr": "The sea be always bluer on the other shore"
+  },
+  {
+    "en": "The squeaky wheel gets the grease",
+    "pr": "The creaky plank gets the oil"
+  },
+  { "en": "There's no place like home", "pr": "There be no port like yer own" },
+  {
+    "en": "Time flies when you're having fun",
+    "pr": "Time sails when ye be enjoyin' yerself"
+  },
+  { "en": "To each their own", "pr": "To every sailor their own treasure" },
+  {
+    "en": "Two heads are better than one",
+    "pr": "Two pirates be better than one"
+  },
+  {
+    "en": "When it rains, it pours",
+    "pr": "When the storm brews, the sea swells"
+  },
+  {
+    "en": "You can't have your cake and eat it too",
+    "pr": "Ye can't have yer pie and devour it too"
+  },
+  {
+    "en": "A bird in the hand is worth two in the bush",
+    "pr": "A parrot in the hand be worth two in the rigging"
+  },
+  { "en": "All bark and no bite", "pr": "All roar and no cannon" },
+  { "en": "Barking up the wrong tree", "pr": "Yappin' at the wrong mast" },
+  {
+    "en": "Caught between a rock and a hard place",
+    "pr": "Trapped 'twixt a boulder and a storm"
+  },
+  {
+    "en": "Don't judge a book by its cover",
+    "pr": "Don't judge a treasure by its chest"
+  },
+  {
+    "en": "Every cloud has a silver lining",
+    "pr": "Every storm hides a glimmer of gold"
+  },
+  { "en": "Get a second wind", "pr": "Catch a fresh breeze" },
+  { "en": "It's a small world", "pr": "The seas be small for sailors" },
+  { "en": "Keep your nose clean", "pr": "Keep yer hands off the plunder" },
+  { "en": "Let sleeping dogs lie", "pr": "Leave the snoozin' sea dogs be" },
+  { "en": "Make a long story short", "pr": "Cut to the chase, matey" },
+
+  {
+    "en": "Squire Trelawney, Doctor Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted.",
+    "pr": "Squire Trelawney, Doctor Livesey, an' th' rest o' these fine gents asked me t' jot down th' whole tale 'o Treasure Island, from start t' finish, keepin' nothin' back 'cept th' bearings o' th' isle, only 'cause thar be treasure still not yet taken!"
+  },
+  {
+    "en": "I take up my pen in the year of grace 17—, and go back to the time when my father kept the 'Admiral Benbow' Inn, and the brown old seaman, with the saber cut, first took up his lodging under our roof.",
+    "pr": "I be takin' up me pen in th' year o' grace 17—, goin' back t' when me father kept th' 'Admiral Benbow' Inn, an' th' brown ol' sea dog, wi' a saber cut, first took up lodgin' under our roof."
+  },
+  {
+    "en": "I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow; a tall, strong, heavy, nut-brown man.",
+    "pr": "I recall him as if it be yest'rday, comin' ploddin' t' th' inn door, his sea-chest in tow on a hand-barrow; a tall, stout, nut-brown man."
+  },
+  {
+    "en": "His tarry pig-tail falling over the shoulders of his soiled blue coat; his hands ragged and scarred, with black, broken nails, and the saber cut across one cheek, a dirty, livid white.",
+    "pr": "His tarry pigtail draped o'er his soiled blue coat, his hands ragged an' scarred, black broken nails, an' that saber cut across his cheek, dirty 'n' white as a ghost."
+  },
+  {
+    "en": "I remember him looking round the cove and whistling to himself as he did so, and then breaking out in that old sea-song that he sang so often afterwards.",
+    "pr": "I remember him gazin' round th' cove, whistlin' t' himself, then breakin' into that ol' sea tune he sang often aft."
+  },
+  {
+    "en": "\"Fifteen men on the dead man's chest, Yo-ho-ho and a bottle of rum!\"",
+    "pr": "\"Fifteen men on th' dead man's chest, Yo-ho-ho an' a bottle o' rum!\""
+  },
+  {
+    "en": "I remember him as if it were yesterday as he came plodding to the inn door in the high, old tottering voice that seemed to have been tuned and broken at the capstan bars.",
+    "pr": "I recall him as if 'twas yest'rday, comin' ploddin' t' th' inn door in that high, totterin' voice o' his, tuned an' broken at th' capstan bars."
+  },
+  {
+    "en": "Then he rapped on the door with a bit of stick like a handspike that he carried, and when my father appeared, called roughly for a glass of rum.",
+    "pr": "Then he gave th' door a rap wi' a stick like a handspike he carried, an' when me father appeared, he called rough-like fer a glass o' rum."
+  },
+  {
+    "en": "This, when it was brought to him, he drank slowly, like a connoisseur, lingering on the taste, and still looking about him at the cliffs and up at our signboard.",
+    "pr": "When it were brought t' him, he drank it slow, like a true connoisseur, lingerin' on th' taste, lookin' 'bout at th' cliffs an' our signboard."
+  },
+  {
+    "en": "\"This is a handy cove,\" says he, at length; \"and a pleasant sittyated grog-shop. Much company, mate?\"",
+    "pr": "\"This be a handy cove,\" says he, at length; \"an' a right pleasant grog-shop. Much company, matey?\""
+  },
+  {
+    "en": "My father told him no, very little company, the more was the pity.",
+    "pr": "Me father told him nay, not much company, pity that be."
+  },
+  {
+    "en": "\"Well, then,\" said he, \"this is the berth for me. Here you, matey,\" he cried to the man who trundled the barrow; \"bring up alongside and help up my chest. I'll stay here a bit,\" he continued.",
+    "pr": "\"Well, then,\" says he, \"this be th' berth fer me. Oi, you matey,\" he cries t' th' man with th' barrow; \"bring it here an' haul up me chest. I'll be stayin' here fer a spell,\" he goes on."
+  },
+  {
+    "en": "\"I'm a plain man; rum and bacon and eggs is what I want, and that head up there for to watch ships off.\"",
+    "pr": "\"I be a plain man; rum, bacon, an' eggs be what I want, an' that there headland t' watch ships from.\""
+  },
+  {
+    "en": "\"What you mought call me? You mought call me captain. Oh, I see what you're at—there,\" and he threw down three or four gold pieces on the threshold.",
+    "pr": "\"What ye might call me? Ye might call me captain. Ah, I see yer point—there,\" an' he tossed down three or four gold pieces on th' threshold."
+  },
+  {
+    "en": "\"You can tell me when I've worked through that,\" said he, looking as fierce as a commander.",
+    "pr": "\"Ye can tell me when I've run through that lot,\" says he, lookin' fierce as a commander."
+  },
+  {
+    "en": "And, indeed, bad as his clothes were, and coarsely as he spoke, he had none of the appearance of a man who sailed before the mast, but seemed like a mate or skipper, accustomed to be obeyed or to strike.",
+    "pr": "An' truth be told, rough as his garb an' tongue were, he had none o' th' look o' a man who sailed afore th' mast, more like a mate or skipper, used t' bein' obeyed or handin' out blows."
+  },
+  {
+    "en": "The man who came with the barrow told us the mail had set him down the morning before at the 'Royal George'; that he had inquired what inns there were along the coast, and hearing ours well spoken of, I suppose, and described as lonely, had chosen it from the others for his place of residence.",
+    "pr": "Th' man wi' th' barrow told us th' mail dropped him at th' 'Royal George' yestermorn; he asked 'bout inns 'long th' coast, heard ours spoke well of, I reckon, an' picked it as his lodgin', bein' nice an' lonely."
+  },
+  {
+    "en": "And that was all we could learn of our guest.",
+    "pr": "An' that be all we could learn 'bout our guest."
+  },
+  {
+    "en": "He was a very silent man by custom.",
+    "pr": "Aye, he be a quiet man by nature."
+  },
+  {
+    "en": "All day he hung round the cove, or upon the cliffs, with a brass telescope; all evening he sat in a corner of the parlor next the fire, and drank rum and water very strong.",
+    "pr": "All day he lingered 'round th' cove, or up on th' cliffs wi' a brass spyglass; all night he sat in th' parlor corner by th' fire, drinkin' strong rum an' water."
+  },
+  {
+    "en": "Mostly he would not speak when spoken to; only look up sudden and fierce, and blow through his nose like a fog-horn.",
+    "pr": "Mostly he'd keep mum when spoken t'; only look up sudden an' fierce, an' blow through his nose like a fog-horn."
+  },
+  {
+    "en": "And we and the people who came about our house soon learned to let him be.",
+    "pr": "We an' th' folk who came 'round our house soon learned t' let him be."
+  },
+  {
+    "en": "Every day, when he came back from his stroll, he would ask if any seafaring men had gone by along the road.",
+    "pr": "Each day, after his stroll, he'd ask if any sea-lovin' men had passed along th' road."
+  },
+  {
+    "en": "At first we thought it was the want of company of his own kind that made him ask this question; but at last we began to see he was desirous to avoid them.",
+    "pr": "At first we thought he wanted company o' his own kind, but soon we saw he was keen t' avoid 'em."
+  },
+  {
+    "en": "When a seaman put up at the 'Admiral Benbow' (as now and then some did, making by the coast road for Bristol), he would look in at him through the curtained door before he entered the parlor.",
+    "pr": "When a seaman put up at th' 'Admiral Benbow' (now an' then one did, bound for Bristol), he'd peer in at 'em through th' curtain 'fore enterin' th' parlor."
+  },
+  {
+    "en": "And he was always sure to be as silent as a mouse when any such was present.",
+    "pr": "An' he were always quiet as a mouse when any o' that sort were about."
+  },
+  {
+    "en": "For me, at least, there was no secret about the matter; for I was, in a way, a sharer in his alarms.",
+    "pr": "As fer me, there be no secret 'bout it; I were, in a way, a partner in his fears."
+  },
+
+  { "en": "break the ice", "pr": "shatter the freeze" },
+  { "en": "bite the bullet", "pr": "chomp the cannonball" },
+  { "en": "burn the midnight oil", "pr": "set the lantern ablaze" },
+  { "en": "hit the nail on the head", "pr": "smash the peg on the skull" },
+  {
+    "en": "let the cat out of the bag",
+    "pr": "release the feline from the sack"
+  },
+  { "en": "piece of cake", "pr": "slice of treasure" },
+  { "en": "spill the beans", "pr": "sow the seeds of truth" },
+  { "en": "under the weather", "pr": "beneath the stormy skies" },
+  { "en": "cost an arm and a leg", "pr": "costs a hand and a peg leg" },
+  { "en": "kick the bucket", "pr": "boot the barrel" },
+  { "en": "once in a blue moon", "pr": "once in a sapphire tide" },
+  { "en": "the ball is in your court", "pr": "the cannonball be in yer hands" },
+  { "en": "throw in the towel", "pr": "cast away the sail" },
+  {
+    "en": "caught between a rock and a hard place",
+    "pr": "trapped 'twixt a boulder and a storm"
+  },
+  { "en": "barking up the wrong tree", "pr": "yappin' at the wrong mast" },
+  { "en": "a blessing in disguise", "pr": "a treasure in disguise" },
+  {
+    "en": "burning the candle at both ends",
+    "pr": "lighting the lantern at both ports"
+  },
+  { "en": "caught red-handed", "pr": "snagged with the booty" },
+  {
+    "en": "don't count your chickens before they hatch",
+    "pr": "don’t tally yer parrots 'fore they squawk"
+  },
+  {
+    "en": "every cloud has a silver lining",
+    "pr": "every storm hides a glimmer of gold"
+  },
+  { "en": "get a taste of your own medicine", "pr": "savor yer own grog" },
+  {
+    "en": "hit the ground running",
+    "pr": "land on yer feet like a true sailor"
+  },
+  { "en": "in the heat of the moment", "pr": "in the fury of the squall" },
+  { "en": "jump on the bandwagon", "pr": "climb aboard the ship" },
+  { "en": "keep your chin up", "pr": "hold yer head high, matey" },
+  { "en": "let sleeping dogs lie", "pr": "leave the snoozin' sea dogs be" },
+  { "en": "make a long story short", "pr": "cut to the chase, matey" },
+  { "en": "miss the boat", "pr": "miss the ship" },
+  { "en": "no pain, no gain", "pr": "no toil, no treasure" },
+  { "en": "on the ball", "pr": "on the lookout" },
+  { "en": "out of the blue", "pr": "from the depths of the sea" },
+  { "en": "pull someone's leg", "pr": "yankin' a matey's peg" },
+  {
+    "en": "put all your eggs in one basket",
+    "pr": "stow all yer doubloons in one chest"
+  },
+  { "en": "read between the lines", "pr": "spy the secrets in the scroll" },
+  { "en": "see eye to eye", "pr": "gaze at the horizon together" },
+  { "en": "sit on the fence", "pr": "perch on the rail" },
+  { "en": "speak of the devil", "pr": "mention the scallywag" },
+  { "en": "the best of both worlds", "pr": "the finest of both seas" },
+  {
+    "en": "the early bird catches the worm",
+    "pr": "the first mate snags the fish"
+  },
+  { "en": "the elephant in the room", "pr": "the leviathan in the hold" },
+  { "en": "throw caution to the wind", "pr": "cast yer fears to the sea" },
+  { "en": "turn a blind eye", "pr": "close one eye to the plunder" },
+  { "en": "under the gun", "pr": "under the cannon's glare" },
+  { "en": "when pigs fly", "pr": "when sea turtles sail" },
+  {
+    "en": "you can't judge a book by its cover",
+    "pr": "ye can't judge a treasure by its chest"
+  },
+  {
+    "en": "actions speak louder than words",
+    "pr": "deeds be louder than shouts"
+  },
+  { "en": "a penny for your thoughts", "pr": "a doubloon for yer musings" },
+  {
+    "en": "bite the hand that feeds you",
+    "pr": "chomp the hand that gives ye grub"
+  },
+  { "en": "curiosity killed the cat", "pr": "inquisitiveness sunk the feline" },
+  {
+    "en": "don't bite off more than you can chew",
+    "pr": "don’t take on more than ye can swallow"
+  },
+  { "en": "every rose has its thorn", "pr": "every bloom hides a prick" },
+  {
+    "en": "fool me once, shame on you; fool me twice, shame on me",
+    "pr": "trick me once, shame be on ye; trick me twice, shame be on me"
+  },
+  { "en": "get your act together", "pr": "gather yer crew" },
+  { "en": "hit the books", "pr": "plunder the tomes" },
+  { "en": "in the blink of an eye", "pr": "in the flash of a lantern" },
+  { "en": "it's not rocket science", "pr": "it ain't sorcery" },
+  { "en": "jumping on the bandwagon", "pr": "climbing aboard the galleon" },
+  {
+    "en": "keep your friends close, but your enemies closer",
+    "pr": "keep yer mates near, but yer foes nearer"
+  },
+  {
+    "en": "let the chips fall where they may",
+    "pr": "let the coins land as they will"
+  },
+  {
+    "en": "make a mountain out of a molehill",
+    "pr": "turn a pebble into a boulder"
+  },
+  {
+    "en": "no use crying over spilled milk",
+    "pr": "no point weepin' over spilled grog"
+  },
+  { "en": "out of sight, out of mind", "pr": "out of view, out of thought" }
 ]
