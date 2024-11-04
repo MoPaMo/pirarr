@@ -19,7 +19,7 @@ def train_model():
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(device)
 
     # Prepare the dataset
-    dataset = load_dataset("json", data_files="data/english-pirate-translations.json")
+    dataset = load_dataset("json", data_files="data/pirate2.json")
     
     # Split the dataset into train and validation sets (90-10 split)
     dataset = dataset["train"].train_test_split(test_size=0.1, seed=42)
