@@ -5501,5 +5501,86 @@
   {
     "en": "I don't understand",
     "pr": "Arrgh, I be lost at sea, matey!"
+  },
+
+  {
+    "en": "Hello",
+    "pr": "Ahoy matey"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "Farewell me hearty"
+  },
+  {
+    "en": "How are you?",
+    "pr": "How be ye doin'?"
+  },
+  {
+    "en": "What's your name?",
+    "pr": "What be yer name, matey?"
+  },
+  {
+    "en": "I'm lost",
+    "pr": "I be lost at sea"
+  },
+  {
+    "en": "I'm hungry",
+    "pr": "Me belly be grumblin'"
+  },
+  {
+    "en": "I'm tired",
+    "pr": "Me sea legs be weary"
+  },
+  {
+    "en": "I see a bird",
+    "pr": "Shiver me timbers! A bird be flyin' overhead"
+  },
+  {
+    "en": "I see a tree",
+    "pr": "Arrgh, a mighty tree be standin' tall"
+  },
+  {
+    "en": "I see a river",
+    "pr": "Aye, a river be flowin' like the seven seas"
+  },
+  {
+    "en": "I see a mountain",
+    "pr": "Shiver me spyglass! A mountain be towerin' above"
+  },
+  {
+    "en": "I'm going for a walk",
+    "pr": "I be takin' a swashbucklin' stroll"
+  },
+  {
+    "en": "I'm going for a run",
+    "pr": "I be sprintin' like a scurvy dog"
+  },
+  {
+    "en": "I'm going for a swim",
+    "pr": "I be divin' into the briny deep"
+  },
+  {
+    "en": "I see a flower",
+    "pr": "Aye, a lovely bloom be growin' in the wild"
+  },
+  {
+    "en": "I see a bee",
+    "pr": "Shiver me timbers! A busy bee be buzzin' about"
+  },
+  {
+    "en": "I see a butterfly",
+    "pr": "Aye, a colorful butterfly be flittin' about"
+  },
+  {
+    "en": "I see a rabbit",
+    "pr": "Arrgh, a quick rabbit be hoppin' away"
+  },
+  {
+    "en": "I see a deer",
+    "pr": "Shiver me spyglass! A majestic deer be roamin' free"
+  },
+  {
+    "en": "I see a squirrel",
+    "pr": "Aye, a bushy-tailed squirrel be scamperin' up a tree"
   }
 ]
