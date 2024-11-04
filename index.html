@@ -1,40 +1,54 @@
 <!DOCTYPE html>
-<html lang="""en
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pirate Themed Website</title>
-    <style>
-        body {
-            background-color: #1a1a1a;
-            color: #f0e68c;
-            font-family: 'Pirata One', cursive;
-            text-align: center;
-        }
-        header {
-            background-color: #8b4513;
-            padding: 20px;
-        }
-        nav a {
-            color: #f0e68c;
-            margin: 0 15px;
-            text-decoration: none;
-        }
-        .content {
-            padding: 20px;
-        }
-        footer {
-            background-color: #8b4513;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=">
-    
-</head>
-<body>
-    
-</body>
-    </html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>pirarr LLM translation</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
+  </head>
+
+  <body>
+    <main class="container">
+      <h3>
+        <u>pirarr</u> is a Large Language Model (LLM) based on Google-T5,
+        capable of translating English to Pirate Speak
+      </h3>
+      trained on about 1k examples of English to Pirate Speak translations,
+      including Mobi Dick and Treasure Island excerpts.
+    </main>
+    <section class="container">
+      <h2>Try it out!</h2>
+      <form>
+        <textarea
+          placeholder="Enter your English text here..."
+          rows="4"
+        ></textarea>
+        <button type="submit">Translate to Pirate Speak</button>
+      </form>
+    </section>
+
+    <section class="container">
+      <h2>Examples</h2>
+      <div class="grid">
+        <div>
+          <h4>English</h4>
+          <p>"Hello, how are you today?"</p>
+        </div>
+        <div>
+          <h4>Pirate Speak</h4>
+          <p>"Ahoy, how ye be farin' today, matey?"</p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="container">
+      <small>
+        Created with ❤️ |
+        <a href="https://github.com/yourusername/pirarr">GitHub</a>
+      </small>
+    </footer>
+  </body>
+</html>
