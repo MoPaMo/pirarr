@@ -3767,5 +3767,962 @@
     "en": "no use crying over spilled milk",
     "pr": "no point weepin' over spilled grog"
   },
-  { "en": "out of sight, out of mind", "pr": "out of view, out of thought" }
+  { "en": "out of sight, out of mind", "pr": "out of view, out of thought" },
+
+  {
+    "en": "Holmes had the impersonal joy of the true artist in his better work, even as he mourned darkly when it fell below the high level to which he aspired.",
+    "pr": "Holmes had the scurvy joy o' the true swashbuckler in his better booty, even as he cursed the seven seas when it fell below the high tide o' his expectations."
+  },
+  {
+    "en": "He was still chuckling over his success when Billy swung open the door and Inspector MacDonald of Scotland Yard was ushered into the room.",
+    "pr": "He were still cacklin' like a parrot over his plunder when Billy swung open the door and Inspector MacDonald o' Scotland Yard were ushered into the great hall."
+  },
+  {
+    "en": "Those were the early days at the end of the ’80’s, when Alec MacDonald was far from having attained the national fame which he has now achieved.",
+    "pr": "Those were the early days o' plunderin' and pillagin' at the end o' the 80's, when Alec MacDonald were far from havin' earned his place among the most feared buccaneers on the seven seas."
+  },
+  {
+    "en": "He was a young but trusted member of the detective force, who had distinguished himself in several cases which had been intrusted to him.",
+    "pr": "He were a young swabbie but trusted member o' the detective crew, who had earned his stripes in several battles against the scurvy dogs o' crime."
+  },
+  {
+    "en": "His tall, bony figure gave promise of exceptional physical strength, while his great cranium and deep-set, lustrous eyes spoke no less clearly of the keen intelligence which twinkled out from behind his bushy eyebrows.",
+    "pr": "His tall, lanky frame gave promise o' exceptional physical strength, while his great noggin and deep-set, sparklin' peepers spoke no less clearly o' the keen wits which twinkled out from behind his bushy eyebrows, like a barnacle on a sunken ship."
+  },
+  {
+    "en": "He was a silent, precise man with a dour nature and a hard Aberdonian accent.",
+    "pr": "He were a silent, precise scallywag with a dour nature and a hard Aberdonian brogue, like a sea dog who'd spent too many years at sea."
+  },
+  {
+    "en": "Twice already in his career had Holmes helped him to attain success, his own sole reward being the intellectual joy of the problem.",
+    "pr": "Twice already in his career had Holmes helped him to find the hidden treasure, his own sole booty bein' the intellectual joy o' the puzzle."
+  },
+  {
+    "en": "For this reason the affection and respect of the Scotchman for his amateur colleague were profound, and he showed them by the frankness with which he consulted Holmes in every difficulty.",
+    "pr": "For this reason the affection and respect o' the Scotchman for his amateur mate were as deep as the ocean, and he showed them by the frankness with which he sought out Holmes' counsel in every stormy weather."
+  },
+  {
+    "en": "Mediocrity knows nothing higher than itself; but talent instantly recognizes genius, and MacDonald had talent enough for his profession to enable him to perceive that there was no humiliation in seeking the assistance of one who already stood alone in Europe, both in his gifts and in his experience.",
+    "pr": "Mediocrity knows nothin' higher than itself, but talent instantly recognizes genius, and MacDonald had the talent o' a true buccaneer to enable him to see that there were no shame in seekin' the help o' one who already ruled the seven seas, both in his plunderin' and in his battle-hardened experience."
+  },
+  {
+    "en": "Holmes was not prone to friendship, but he was tolerant of the big Scotchman, and smiled at the sight of him.",
+    "pr": "Holmes were not prone to makin' friends, but he were tolerant o' the big Scotchman, and smiled at the sight o' him, like a sea captain who'd found a rare gem on a deserted isle."
+  },
+  {
+    "en": "‘You are an early bird, Mr. Mac,’ said he. ‘I wish you luck with your worm. I fear this means that there is some mischief afoot.’",
+    "pr": "‘Ye be an early bird, Mr. Mac,’ said he. ‘I wish ye luck with yer worm. I fear this means that there be some scurvy business brewin’.’"
+  },
+
+  {
+    "en": "Hey, what's up?",
+    "pr": "Arrgh, what be goin' on?"
+  },
+  {
+    "en": "I'm good, thanks! How about you?",
+    "pr": "Me be doin' well, matey! How be ye?"
+  },
+  {
+    "en": "Just got back from vacation, feeling relaxed",
+    "pr": "Just returned from me island getaway, feelin' as calm as a sea on a windless day"
+  },
+  {
+    "en": "What did you do on your trip?",
+    "pr": "What be yer tale o' adventure, matey?"
+  },
+  {
+    "en": "I went to the beach and hiked a lot",
+    "pr": "I spent me days soakin' up the sun on the beach and me nights trekkin' through the jungle"
+  },
+  {
+    "en": "That sounds amazing! I'm jealous",
+    "pr": "Shiver me timbers! That sounds like a swashbucklin' good time! Me be green with envy"
+  },
+  {
+    "en": "I have a meeting at 2 PM, gotta run",
+    "pr": "I have a meetin' with the cap'n at 2 PM, gotta set sail"
+  },
+  {
+    "en": "Okay, talk to you later",
+    "pr": "Aye aye, matey! Talk to ye later"
+  },
+  {
+    "en": "What's the plan for tonight?",
+    "pr": "What be yer plan for the evenin', matey?"
+  },
+  {
+    "en": "I was thinking of watching a movie",
+    "pr": "I be thinkin' o' watchin' a film on the high seas... er, I mean, on me TV"
+  },
+  {
+    "en": "Sounds good to me! What's the movie?",
+    "pr": "Aye, sounds like a grand idea! What be the movie, matey?"
+  },
+  {
+    "en": "I'm not sure yet, what do you recommend?",
+    "pr": "I be unsure o' what to watch, matey. What be yer recommendation?"
+  },
+  {
+    "en": "Have you seen that new Marvel movie?",
+    "pr": "Have ye seen the new Marvel flick, matey?"
+  },
+  {
+    "en": "Yeah, I saw it last weekend! It was awesome",
+    "pr": "Aye, I saw it last weekend! It be a real treasure o' a film"
+  },
+  {
+    "en": "I'm so down to watch it! Can we order some pizza too?",
+    "pr": "I be ready to set sail fer a movie night! Can we order some grub, matey?"
+  },
+  {
+    "en": "Sounds like a plan! I'll order the pizza",
+    "pr": "Aye, sounds like a grand plan! I'll order the booty... er, I mean, the pizza"
+  },
+  {
+    "en": "Thanks! I'm really looking forward to it",
+    "pr": "Thanks, matey! I be lookin' forward to it as well"
+  },
+  {
+    "en": "Me too! See you soon",
+    "pr": "Aye, matey! See ye soon"
+  },
+  {
+    "en": "Hey, can you help me with something?",
+    "pr": "Arrgh, matey! Can ye help me with somethin'?"
+  },
+  {
+    "en": "What's up? I'm happy to help",
+    "pr": "What be the problem, matey? I be happy to lend a hand"
+  },
+  {
+    "en": "I'm trying to figure out how to use this new software",
+    "pr": "I be tryin' to navigate this new software, matey. Can ye help me find me way?"
+  },
+  {
+    "en": "I can try to help you with that. What's the software?",
+    "pr": "Aye, I can try to help ye with that, matey. What be the software ye be tryin' to use?"
+  },
+
+  {
+    "en": "I'm feeling a bit under the weather",
+    "pr": "I be feelin' a bit green around the gills, matey"
+  },
+  {
+    "en": "What's your favorite book?",
+    "pr": "What be yer favorite tale o' adventure, matey?"
+  },
+  {
+    "en": "I'm going to the gym today",
+    "pr": "I be headed to the ship's gym to get me sea legs strong"
+  },
+  {
+    "en": "Do you like coffee?",
+    "pr": "Do ye like a good cup o' grog, matey?"
+  },
+  {
+    "en": "I'm so tired",
+    "pr": "I be as tired as a sea dog after a long voyage"
+  },
+  {
+    "en": "What's the weather like today?",
+    "pr": "What be the forecast, matey? Is it a fair day fer sailin'?"
+  },
+  {
+    "en": "I'm going to the beach",
+    "pr": "I be headed to the shore to soak up some sun and sea air"
+  },
+  {
+    "en": "Can you help me with my homework?",
+    "pr": "Can ye help me with me navigation, matey? I be stuck on a tricky problem"
+  },
+  {
+    "en": "I love playing video games",
+    "pr": "I be a fan o' playin' games on me trusty ol' console, matey"
+  },
+  {
+    "en": "What's your favorite food?",
+    "pr": "What be yer favorite grub, matey? Do ye like a good plate o' seafood?"
+  },
+  {
+    "en": "I'm going to the movies",
+    "pr": "I be headed to the cinema to watch a swashbucklin' good film, matey"
+  },
+  {
+    "en": "Do you like music?",
+    "pr": "Do ye like a good sea shanty, matey?"
+  },
+  {
+    "en": "I'm feeling a bit hungry",
+    "pr": "I be feelin' a bit peckish, matey. Time fer a snack o' some sea biscuits"
+  },
+  {
+    "en": "What's the plan for the weekend?",
+    "pr": "What be yer plan fer the weekend, matey? Are ye goin' on a treasure hunt?"
+  },
+  {
+    "en": "I'm going to the park",
+    "pr": "I be headed to the green to get some fresh air and exercise, matey"
+  },
+  {
+    "en": "Can you help me with my phone?",
+    "pr": "Can ye help me with me trusty ol' compass, matey? I be having trouble navigatin' me phone"
+  },
+  {
+    "en": "I love reading books",
+    "pr": "I be a fan o' readin' tales o' adventure, matey"
+  },
+  {
+    "en": "What's your favorite sport?",
+    "pr": "What be yer favorite sport, matey? Do ye like a good game o' sword fightin'?"
+  },
+
+  {
+    "en": "I'm so excited!",
+    "pr": "Shiver me timbers! I be as excited as a parrot on a treasure hunt!"
+  },
+  {
+    "en": "What's your favorite type of music?",
+    "pr": "What be yer favorite sea shanty, matey? Do ye like a good ol' fashioned sea song?"
+  },
+  {
+    "en": "I'm going to the store",
+    "pr": "I be headed to the market to pick up some provisions, matey"
+  },
+  {
+    "en": "Do you like traveling?",
+    "pr": "Do ye like sailin' the seven seas, matey? There be so many hidden treasures to discover!"
+  },
+  {
+    "en": "I'm feeling a bit sad",
+    "pr": "I be feelin' as low as a shipwreck on a rocky shore, matey"
+  },
+  {
+    "en": "What's the best way to get to the airport?",
+    "pr": "What be the best way to get to the dock, matey? Do ye need to take a boat or a ship?"
+  },
+  {
+    "en": "I love playing with my dog",
+    "pr": "I be a fan o' playin' with me trusty ol' parrot, matey"
+  },
+  {
+    "en": "What's your favorite type of food?",
+    "pr": "What be yer favorite grub, matey? Do ye like a good plate o' seafood or a hearty bowl o' grog?"
+  },
+  {
+    "en": "I'm going to the library",
+    "pr": "I be headed to the treasure trove o' knowledge, matey"
+  },
+  {
+    "en": "Do you like playing games?",
+    "pr": "Do ye like playin' games o' chance, matey? Like a game o' dice or a round o' cards?"
+  },
+  {
+    "en": "I'm feeling a bit tired",
+    "pr": "I be feelin' as tired as a sailor after a long voyage, matey"
+  },
+  {
+    "en": "What's the best way to learn a new language?",
+    "pr": "What be the best way to learn a new dialect, matey? Do ye need to listen to the locals or practice yer own pirate speak?"
+  },
+  {
+    "en": "I love watching TV",
+    "pr": "I be a fan o' watchin' the sea captain's log, matey"
+  },
+  {
+    "en": "What's your favorite type of movie?",
+    "pr": "What be yer favorite swashbucklin' film, matey? Do ye like a good pirate adventure or a treasure hunt?"
+  },
+  {
+    "en": "I'm going to the gym",
+    "pr": "I be headed to the ship's gym to get me sea legs strong, matey"
+  },
+  {
+    "en": "Do you like reading books?",
+    "pr": "Do ye like readin' tales o' adventure, matey? Like a good pirate novel or a treasure map?"
+  },
+  {
+    "en": "I'm feeling a bit hungry",
+    "pr": "I be feelin' as hungry as a pirate after a long day o' plunderin', matey"
+  },
+
+  { "en": "Good morning", "pr": "Shiver me timbers, matey!" },
+  { "en": "How are you?", "pr": "Avast ye, how be yer day?" },
+  {
+    "en": "I'm feeling well",
+    "pr": "Ahoy, me hearty! I be feelin' shipshape!"
+  },
+  { "en": "What's the weather like?", "pr": "What be the forecast, matey?" },
+  { "en": "It's sunny", "pr": "Shiver me timbers! The sun be shinin' bright!" },
+  {
+    "en": "I'm hungry",
+    "pr": "Arrgh, me belly be growlin' like a sea monster!"
+  },
+  {
+    "en": "Can I have a sandwich?",
+    "pr": "Aye aye, captain! Gimme a sandwich fit fer a swashbucklin' pirate!"
+  },
+  {
+    "en": "I'm tired",
+    "pr": "Shiver me timbers! Me sea legs be tired from all the plunderin'!"
+  },
+  {
+    "en": "I need a coffee",
+    "pr": "Avast ye, matey! I need a cup o' grog to keep me wits about me!"
+  },
+  { "en": "I love you", "pr": "Arrgh, me hearty! Ye be me treasure, me love!" },
+  {
+    "en": "I hate you",
+    "pr": "Shiver me timbers! Ye be me arch-nemesis, me bitter foe!"
+  },
+  { "en": "What's your name?", "pr": "What be yer name, matey?" },
+  { "en": "My name is...", "pr": "Ahoy, me name be..." },
+  { "en": "Where are you from?", "pr": "From whence do ye come, matey?" },
+  { "en": "I'm from...", "pr": "Ahoy, I be from..." },
+  { "en": "What do you do?", "pr": "What be yer profession, matey?" },
+  { "en": "I'm a...", "pr": "Ahoy, I be a..." },
+  {
+    "en": "How old are you?",
+    "pr": "How many years have ye been sailin' the seven seas, matey?"
+  },
+  { "en": "I'm...", "pr": "Ahoy, I be..." },
+  {
+    "en": "Hello",
+    "pr": "Ahoy"
+  },
+  {
+    "en": "Hello",
+    "pr": "Hoy"
+  },
+  {
+    "en": "Hello",
+    "pr": "Yo ho ho"
+  },
+  {
+    "en": "Hello",
+    "pr": "Shiver me timbers!"
+  },
+  {
+    "en": "Hi",
+    "pr": "Arrgh"
+  },
+  {
+    "en": "Hi",
+    "pr": "Aye aye"
+  },
+  {
+    "en": "Hi",
+    "pr": "Yo"
+  },
+  {
+    "en": "Hi",
+    "pr": "Shiver me booty!"
+  },
+  {
+    "en": "Good morning",
+    "pr": "Mornin' matey"
+  },
+  {
+    "en": "Good morning",
+    "pr": "Good morrow"
+  },
+  {
+    "en": "Good morning",
+    "pr": "Shine yer light o' day"
+  },
+  {
+    "en": "Good morning",
+    "pr": "Rise and shine, me hearty!"
+  },
+  {
+    "en": "Good afternoon",
+    "pr": "Afternoon, me hearty"
+  },
+  {
+    "en": "Good afternoon",
+    "pr": "Good day to ye"
+  },
+  {
+    "en": "Good afternoon",
+    "pr": "Shiver me timbers, it be afternoon!"
+  },
+  {
+    "en": "Good afternoon",
+    "pr": "Fair winds and following seas!"
+  },
+  {
+    "en": "Good evening",
+    "pr": "Evenin' matey"
+  },
+  {
+    "en": "Good evening",
+    "pr": "Good evenin' to ye"
+  },
+  {
+    "en": "Good evening",
+    "pr": "Shiver me timbers, it be nightfall!"
+  },
+  {
+    "en": "Good evening",
+    "pr": "Avast ye, it be evening!"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "Farewell, me hearty"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "Adieu, matey"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "May the winds o' fortune blow in yer favor!"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "May yer anchor hold and yer sails be full!"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Arrgh, thank ye"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Aye aye, thank ye"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Shiver me timbers, thank ye!"
+  },
+  {
+    "en": "Thank you",
+    "pr": "May yer treasure chest be full!"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "Aye aye, matey"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "Shiver me timbers, welcome!"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "May yer anchor hold and yer sails be full!"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "May yer treasure be plentiful!"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "Farewell, me hearty"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "Adieu, matey"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "May the winds o' fortune blow in yer favor!"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "May yer anchor hold and yer sails be full!"
+  },
+  {
+    "en": "How are you?",
+    "pr": "How be ye, matey?"
+  },
+  {
+    "en": "How are you?",
+    "pr": "What be yer tale, me hearty?"
+  },
+  {
+    "en": "How are you?",
+    "pr": "Be ye well, me matey?"
+  },
+  {
+    "en": "How are you?",
+    "pr": "What's yer story, me hearty?"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Arrgh, thank ye"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Aye aye, thank ye"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Shiver me timbers, thank ye!"
+  },
+  {
+    "en": "Thank you",
+    "pr": "May yer treasure chest be full!"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "Aye aye, matey"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "Shiver me timbers, welcome!"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "May yer anchor hold and yer sails be full!"
+  },
+  {
+    "en": "You're welcome",
+    "pr": "May yer treasure be plentiful!"
+  },
+
+  { "en": "Hello", "pr": "Arrgh, greetings!" },
+  { "en": "Hi", "pr": "Ahoy, matey!" },
+  { "en": "Hey", "pr": "Shiver me timbers!" },
+  { "en": "Good morning", "pr": "Mornin' to ye, matey!" },
+  { "en": "Good afternoon", "pr": "Afternoon, me hearty!" },
+  { "en": "Good evening", "pr": "Evenin' to ye, me matey!" },
+  { "en": "How are you?", "pr": "How be ye, matey?" },
+  { "en": "What's up?", "pr": "What be yer business, matey?" },
+  { "en": "Goodbye", "pr": "Farewell, me hearty!" },
+  {
+    "en": "See you later",
+    "pr": "May the winds o' fortune blow ye back me way, matey!"
+  },
+  {
+    "en": "Take care",
+    "pr": "May the gods o' the seven seas watch o'er ye, matey!"
+  },
+  { "en": "Thank you", "pr": "Aye, thank ye, matey!" },
+  { "en": "You're welcome", "pr": "Aye, 'twas me pleasure, matey!" },
+  {
+    "en": "I love you",
+    "pr": "Me hearty, me love fer ye be as deep as the ocean!"
+  },
+  {
+    "en": "I'm fine, thanks",
+    "pr": "Aye, I be doin' well, matey, thanks fer askin'!"
+  },
+  { "en": "How old are you?", "pr": "How many winters have ye seen, matey?" },
+  { "en": "What's your name?", "pr": "What be yer name, matey?" },
+  { "en": "Where are you from?", "pr": "From whence do ye hail, matey?" },
+
+  {
+    "en": "Hello",
+    "pr": "Arrgh, shiver me timbers!"
+  },
+  {
+    "en": "Goodbye",
+    "pr": "Farewell, matey!"
+  },
+  {
+    "en": "Thank you",
+    "pr": "Thanks, mate!"
+  },
+  {
+    "en": "How are you?",
+    "pr": "How be ye, matey?"
+  },
+  {
+    "en": "I'm fine, thank you",
+    "pr": "I be doin' well, thanks!"
+  },
+  {
+    "en": "What's your name?",
+    "pr": "What be yer name, matey?"
+  },
+  {
+    "en": "My name is [name]",
+    "pr": "Me name be [name], matey!"
+  },
+  {
+    "en": "Where are you from?",
+    "pr": "From whence do ye hail, matey?"
+  },
+  {
+    "en": "I'm from [place]",
+    "pr": "I be from [place], matey!"
+  },
+  {
+    "en": "What do you do?",
+    "pr": "What be yer trade, matey?"
+  },
+  {
+    "en": "I'm a [job]",
+    "pr": "I be a [job], matey!"
+  },
+  {
+    "en": "How much does it cost?",
+    "pr": "How much booty be it worth, matey?"
+  },
+  {
+    "en": "I don't understand",
+    "pr": "I don't savvy, matey!"
+  },
+  {
+    "en": "I'm lost",
+    "pr": "I be lost at sea, matey!"
+  },
+  {
+    "en": "Can you help me?",
+    "pr": "Can ye lend a hand, matey?"
+  },
+  {
+    "en": "Yes",
+    "pr": "Aye, matey!"
+  },
+  {
+    "en": "No",
+    "pr": "Nay, matey!"
+  },
+  { "en": "I'm hungry", "pr": "Me belly be rumblin' like a cannon!" },
+  { "en": "I'm thirsty", "pr": "Me throat be drier than a desert island!" },
+  { "en": "Can I have some food?", "pr": "Could ye spare a bite, matey?" },
+  {
+    "en": "Can I have some water?",
+    "pr": "Could ye give me a swig o' the grog?"
+  },
+  { "en": "I need help", "pr": "Avast, I be needin' a hand!" },
+  { "en": "I don't understand", "pr": "I be lost at sea, matey!" },
+  { "en": "I love you", "pr": "Me heart be yer treasure!" },
+  { "en": "I hate you", "pr": "Walk the plank, ye scurvy dog!" },
+
+  {
+    "en": "Inspector MacDonald smiled, and his eyelid quivered as he glanced towards me.",
+    "pr": "Cap'n MacDonald cracked a smile, and his peeper twitched as he gave me the once-over."
+  },
+  {
+    "en": "I won’t conceal from you, Mr. Holmes, that we think in the C.I.D. that you have a wee bit of a bee in your bonnet over this professor.",
+    "pr": "I be keepin' no secrets from ye, Mr. Holmes, matey, we think ye've got a mighty big bug in yer brain about this here professor."
+  },
+  {
+    "en": "I made some inquiries myself about the matter.",
+    "pr": "I did some diggin' o' me own about the whole shebang."
+  },
+  {
+    "en": "He seems to be a very respectable, learned, and talented sort of man.",
+    "pr": "He seems like a proper gent, with a brain full o' knowledge and a treasure trove o' talents."
+  },
+  {
+    "en": "I’m glad you’ve got so far as to recognize the talent.",
+    "pr": "Arrgh, I be glad ye've caught on to the professor's gift, matey!"
+  },
+  {
+    "en": "Man, you can’t but recognize it!",
+    "pr": "Shiver me timbers! Ye can't help but see it, matey!"
+  },
+  {
+    "en": "After I heard your view I made it my business to see him.",
+    "pr": "After I heard yer take on it, I made it me business to pay him a visit."
+  },
+  {
+    "en": "I had a chat with him on eclipses.",
+    "pr": "I had a swashbucklin' conversation with him about them there eclipses."
+  },
+  {
+    "en": "How the talk got that way I canna think;",
+    "pr": "I be darned if I know how we got to talkin' about that, matey!"
+  },
+  {
+    "en": "but he had out a reflector lantern and a globe, and made it all clear in a minute.",
+    "pr": "but he whipped out a shiny lantern and a globe, and made it all as clear as a calm sea in a minute, savvy?"
+  },
+  {
+    "en": "He lent me a book;",
+    "pr": "He loaned me a treasure of a book, matey!"
+  },
+  {
+    "en": "but I don’t mind saying that it was a bit above my head, though I had a good Aberdeen upbringing.",
+    "pr": "but I be willin' to admit that it was a mite too deep for me, even with me fine Aberdeen education, arrr!"
+  },
+  {
+    "en": "He’d have made a grand meenister with his thin face and gray hair and solemn-like way of talking.",
+    "pr": "He'd have made a fine sea captain with his gaunt face and gray locks and serious way o' talkin', matey!"
+  },
+  {
+    "en": "When he put his hand on my shoulder as we were parting, it was like a father’s blessing before you go out into the cold, cruel world.",
+    "pr": "When he laid his hand on me shoulder as we were sayin' our goodbyes, it was like gettin' a blessin' from me old sea dog o' a dad before setin' sail into the harsh seas o' life."
+  },
+  {
+    "en": "Holmes chuckled and rubbed his hands.",
+    "pr": "Holmes let out a hearty laugh and rubbed his hands together like a scurvy dog."
+  },
+  {
+    "en": "Great!",
+    "pr": "Shiver me timbers!"
+  },
+  {
+    "en": "Tell me, Friend MacDonald, this pleasing and touching interview was, I suppose, in the professor’s study?",
+    "pr": "Tell me, matey MacDonald, this here pleasant and touchin' chat ye had with the professor, I reckon it were in his study, savvy?"
+  },
+  {
+    "en": "That’s so.",
+    "pr": "Aye, that be true."
+  },
+  {
+    "en": "A fine room, is it not?",
+    "pr": "A grand cabin, ain't it, matey?"
+  },
+  {
+    "en": "Very fine—very handsome indeed, Mr. Holmes.",
+    "pr": "Aye, very fine indeed, Mr. Holmes, a right proper room for a swashbucklin' professor!"
+  },
+  {
+    "en": "You sat in front of his writing desk?",
+    "pr": "Ye sat yerself down in front o' his treasure chest o' a desk, matey?"
+  },
+  {
+    "en": "Just so.",
+    "pr": "Aye, that be so."
+  },
+  {
+    "en": "Sun in your eyes and his face in the shadow?",
+    "pr": "Sun blazin' in yer peepers and his mug in the shade, savvy?"
+  },
+  {
+    "en": "Well, it was evening;",
+    "pr": "Aye, it were evenin', matey;"
+  },
+  {
+    "en": "but I mind that the lamp was turned on my face.",
+    "pr": "but I recall that the lantern were shinin' its light right on me mug."
+  },
+  {
+    "en": "It would be.",
+    "pr": "Aye, that be how it would be, matey."
+  },
+  {
+    "en": "Did you happen to observe a picture over the professor’s head?",
+    "pr": "Did ye happen to spy a picture hangin' above the professor's noggin, matey?"
+  },
+  {
+    "en": "I don’t miss much, Mr. Holmes.",
+    "pr": "I don't miss much, Mr. Holmes, I be keepin' me wits about me, savvy?"
+  },
+  {
+    "en": "Maybe I learned that from you.",
+    "pr": "Maybe I learned that from ye, matey."
+  },
+  {
+    "en": "Yes, I saw the picture—a young woman with her head on her hands, peeping at you sideways.",
+    "pr": "Aye, I saw the picture—a young lass with her head in her hands, givin' ye the side-eye, matey."
+  },
+  {
+    "en": "That painting was by Jean Baptiste Greuze.",
+    "pr": "That there paintin' were done by the great Jean Baptiste Greuze, the scurvy dog of a French artist."
+  },
+  {
+    "en": "Jean Baptiste Greuze",
+    "pr": "Jean Baptiste Greuze, the infamous French swashbuckler o' the art world."
+  },
+  {
+    "en": "was a French artist who flourished between the years 1750 and 1800.",
+    "pr": "were a French artist who made a name for himself between the years 1750 and 1800, a regular sea dog o' the art world."
+  },
+  {
+    "en": "I allude, of course to his working career.",
+    "pr": "I be referrin', o' course, to his time as a workin' artist, matey."
+  },
+  {
+    "en": "Modern criticism has more than indorsed the high opinion formed of him by his contemporaries.",
+    "pr": "Modern landlubbers have given him a mighty fine reputation, even better than what his shipmates thought o' him back in the day."
+  },
+  {
+    "en": "The inspector endeavoured to look interested.",
+    "pr": "The inspector tried his best to look like he were interested, but I reckon he were just humoring ye, matey."
+  },
+  {
+    "en": "Hadn’t we better—",
+    "pr": "Shouldn't we be gettin' on with it, matey?"
+  },
+  {
+    "en": "Six thousand a year",
+    "pr": "Six thousand pieces o' eight a year, savvy?"
+  },
+  {
+    "en": "That's paying for brains",
+    "pr": "That be payin' fer yer wits, matey"
+  },
+  {
+    "en": "The American business principle",
+    "pr": "The great American way o' doin' business, arrr"
+  },
+  {
+    "en": "I learned that detail quite by chance",
+    "pr": "I stumbled upon that bit o' info by pure luck, me hearty"
+  },
+  {
+    "en": "It's more than the Prime Minister gets",
+    "pr": "It be more booty than the landlubber Prime Minister gets, shiver me timbers!"
+  },
+  {
+    "en": "That gives you an idea of Moriarty's gains",
+    "pr": "That gives ye a notion o' Moriarty's plunder, matey"
+  },
+  {
+    "en": "I made it my business to hunt down some of Moriarty's checks",
+    "pr": "I set me sights on trackin' down some o' Moriarty's treasure, arrr"
+  },
+  {
+    "en": "They were drawn on six different banks",
+    "pr": "They be drawn on six different treasure chests, shiver me timbers!"
+  },
+  {
+    "en": "Does that make any impression on your mind?",
+    "pr": "Does that make ye think twice, matey?"
+  },
+  {
+    "en": "Queer, certainly!",
+    "pr": "Aye, that be a mighty strange tale, indeed!"
+  },
+  {
+    "en": "But what do you gather from it?",
+    "pr": "But what be yer take on it, matey?"
+  },
+  {
+    "en": "That he wanted no gossip about his wealth",
+    "pr": "That he wanted no landlubbers talkin' about his treasure, savvy?"
+  },
+  {
+    "en": "No single man should know what he had",
+    "pr": "No single swabbie should know the extent o' his booty, arrr"
+  },
+  {
+    "en": "I have no doubt that he has twenty banking accounts",
+    "pr": "I be thinkin' he has twenty treasure chests hidden away, matey"
+  },
+  {
+    "en": "The bulk of his fortune abroad in the Deutsche Bank or the Crédit Lyonnais",
+    "pr": "The bulk o' his treasure be hidden away in foreign treasure chests, shiver me timbers!"
+  },
+  {
+    "en": "Sometime when you have a year or two to spare",
+    "pr": "When ye have a bit o' time on yer hands, matey"
+  },
+  {
+    "en": "I commend to you the study of Professor Moriarty",
+    "pr": "I be recommendin' ye study the scurvy dog Professor Moriarty, arrr"
+  },
+  {
+    "en": "He can keep, anyhow",
+    "pr": "He can wait, matey"
+  },
+  {
+    "en": "You've got us side-tracked with your interesting anecdotes",
+    "pr": "Ye've got us sailin' off course with yer fascinatin' tales, matey"
+  },
+  {
+    "en": "What really counts is your remark that there is some connection between the professor and the crime",
+    "pr": "What really matters be yer comment about the connection between the professor and the crime, savvy?"
+  },
+  {
+    "en": "That you get from the warning received through the man Porlock",
+    "pr": "That ye got from the warnin' sent by the scurvy dog Porlock, arrr"
+  },
+  {
+    "en": "Can we for our present practical needs get any further than that?",
+    "pr": "Can we get any more booty for our present needs, matey?"
+  },
+  {
+    "en": "We may form some conception as to the motives of the crime",
+    "pr": "We may get a notion o' the reasons behind the crime, shiver me timbers!"
+  },
+  {
+    "en": "It is, as I gather from your original remarks, an inexplicable, or at least an unexplained, murder",
+    "pr": "It be a murder that be beyond explanation, or at least not yet explained, matey"
+  },
+  {
+    "en": "Now, presuming that the source of the crime is as we suspect it to be",
+    "pr": "Now, assumin' the source o' the crime be what we think it be, arrr"
+  },
+  {
+    "en": "There might be two different motives",
+    "pr": "There be two possible reasons for the crime, matey"
+  },
+  {
+    "en": "In the first place, I may tell you that Moriarty rules with a rod of iron over his people",
+    "pr": "In the first place, I be tellin' ye that Moriarty rules his crew with an iron fist, savvy?"
+  },
+  {
+    "en": "His discipline is tremendous",
+    "pr": "His discipline be fierce, matey"
+  },
+  {
+    "en": "There is only one punishment in his code",
+    "pr": "There be only one punishment in his book, arrr"
+  },
+  {
+    "en": "It is death",
+    "pr": "It be death, matey"
+  },
+  {
+    "en": "Now we might suppose that this murdered man—this Douglas whose approaching fate was known by one of the arch-criminal's subordinates—had in some way betrayed the chief",
+    "pr": "Now we might think that the murdered man, Douglas, be the one who crossed the scurvy dog Moriarty, shiver me timbers!"
+  },
+  {
+    "en": "His punishment followed, and would be known to all—if only to put the fear of death into them",
+    "pr": "His punishment be swift, and would be known to all, to put the fear o' death into their hearts, matey"
+  },
+  {
+    "en": "Well, that is one suggestion, Mr. Holmes",
+    "pr": "Aye, that be one possibility, Mr. Holmes, savvy?"
+  },
+  {
+    "en": "The other is that it has been engineered by Moriarty in the ordinary course of business",
+    "pr": "The other be that it be a job done by Moriarty in the course o' his usual business, arrr"
+  },
+  {
+    "en": "Was there any robbery?",
+    "pr": "Be there any booty taken, matey?"
+  },
+  {
+    "en": "I have not heard",
+    "pr": "I haven't heard, matey"
+  },
+  {
+    "en": "If so, it would, of course, be against the first hypothesis and in favour of the second",
+    "pr": "If so, it would go against the first idea and support the second, savvy?"
+  },
+  {
+    "en": "Moriarty may have been engaged to engineer it on a promise of part spoils",
+    "pr": "Moriarty may have been hired to do the job with a promise o' a share o' the loot, matey"
+  },
+  {
+    "en": "or he may have been paid so much down to manage it",
+    "pr": "or he may have been paid a pretty penny to take care o' it, arrr"
+  },
+  {
+    "en": "Either is possible",
+    "pr": "Either be possible, matey"
+  },
+  {
+    "en": "But whichever it may be, or if it is some third combination",
+    "pr": "But whichever it be, or if it be some other mix o' things, savvy?"
+  },
+  {
+    "en": "it is down at Birlstone that we must seek the solution",
+    "pr": "it be down at Birlstone that we must search fer the answer, matey"
+  },
+  {
+    "en": "I know our man too well to suppose that he has left anything up here which may lead us to him",
+    "pr": "I know the scurvy dog too well to think he left any clues here that would lead us to him, arrr"
+  },
+  {
+    "en": "Then to Birlstone we must go!",
+    "pr": "Then to Birlstone we set sail, matey!"
+  },
+  {
+    "en": "My word! it's later than I thought",
+    "pr": "Shiver me timbers! it be later than I thought, matey"
+  },
+  {
+    "en": "I can give you, gentlemen, five minutes for preparation, and that is all",
+    "pr": "I can give ye, gentlemen, five minutes to get yer gear ready, and that be all, savvy?"
+  },
+  {
+    "en": "And ample for us both",
+    "pr": "And that be enough time fer us both, matey"
+  }
 ]
