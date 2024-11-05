@@ -5582,5 +5582,289 @@
   {
     "en": "I see a squirrel",
     "pr": "Aye, a bushy-tailed squirrel be scamperin' up a tree"
-  }
+  },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "Ahoy", "pr": "Arrgh" },
+  { "en": "Hello", "pr": "Shiver me timbers!" },
+  { "en": "Goodbye", "pr": "Farewell, matey" },
+  { "en": "Thank you", "pr": "Argh, thank ye" },
+  { "en": "Yes", "pr": "Aye aye" },
+  { "en": "No", "pr": "Nay" },
+  { "en": "How are you?", "pr": "How be ye, matey?" },
+  { "en": "I'm fine, thank you", "pr": "I be doin' well, thank ye" },
+  { "en": "What's your name?", "pr": "What be yer name, matey?" },
+  { "en": "My name is [name]", "pr": "Me name be [name], matey" },
+  { "en": "Where are you from?", "pr": "Where be ye from, matey?" },
+  { "en": "I'm from [place]", "pr": "I be from [place], matey" },
+  { "en": "What do you do?", "pr": "What be yer trade, matey?" },
+  { "en": "I'm a [job]", "pr": "I be a [job], matey" },
+  {
+    "en": "How much does it cost?",
+    "pr": "How much booty be it worth, matey?"
+  },
+  { "en": "I don't understand", "pr": "I don't savvy, matey" },
+  { "en": "Excuse me", "pr": "Avast, matey!" },
+  { "en": "Sorry", "pr": "Shiver me timbers, sorry matey" },
+  { "en": "I love you", "pr": "Me hearty, I love ye" },
+  { "en": "I hate you", "pr": "Shiver me timbers, I hate ye" },
+  { "en": "You're welcome", "pr": "Aye, thank ye, matey" },
+  { "en": "I'm bored", "pr": "I be feelin' landlubberish, matey" },
+  { "en": "I'm tired", "pr": "I be feelin' like a bilge rat, matey" },
+  { "en": "I'm hungry", "pr": "I be feelin' like a scurvy dog, matey" },
+  { "en": "I'm thirsty", "pr": "I be feelin' like a parched pirate, matey" },
+  { "en": "I'm cold", "pr": "I be feelin' like a block o' ice, matey" },
+  { "en": "I'm hot", "pr": "I be feelin' like a swelterin' sea dog, matey" },
+  {
+    "en": "I'm sick",
+    "pr": "I be feelin' like a bilge rat with the scurvy, matey"
+  },
+  {
+    "en": "I'm happy",
+    "pr": "I be feelin' like a chest overflowin' with gold doubloons, matey"
+  },
+  {
+    "en": "I'm sad",
+    "pr": "I be feelin' like a shipwreck on a deserted isle, matey"
+  },
+  { "en": "I'm angry", "pr": "I be feelin' like a stormy sea, matey" },
+  {
+    "en": "I'm excited",
+    "pr": "I be feelin' like a barrel o' rum on a hot summer day, matey"
+  },
+  {
+    "en": "I'm surprised",
+    "pr": "I be feelin' like a barnacle on a sunken ship, matey"
+  },
+  {
+    "en": "I'm confused",
+    "pr": "I be feelin' like a landlubber in a storm, matey"
+  },
+  {
+    "en": "I'm frustrated",
+    "pr": "I be feelin' like a ship stuck in the doldrums, matey"
+  },
+  {
+    "en": "I'm disappointed",
+    "pr": "I be feelin' like a chest filled with worthless trinkets, matey"
+  },
+  {
+    "en": "I'm relieved",
+    "pr": "I be feelin' like a ship that's finally made it to shore, matey"
+  },
+  {
+    "en": "I'm relieved",
+    "pr": "I be feelin' like a chest filled with gold doubloons, matey"
+  },
+  {
+    "en": "I'm proud",
+    "pr": "I be feelin' like a ship with a full sail, matey"
+  },
+  {
+    "en": "I'm ashamed",
+    "pr": "I be feelin' like a ship with a torn sail, matey"
+  },
+  {
+    "en": "I'm embarrassed",
+    "pr": "I be feelin' like a ship that's run aground, matey"
+  },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm sorry for you", "pr": "Shiver me timbers, sorry for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  { "en": "I'm surprised by you", "pr": "I be surprised by ye, matey" },
+  { "en": "I'm confused by you", "pr": "I be confused by ye, matey" },
+  { "en": "I'm frustrated by you", "pr": "I be frustrated by ye, matey" },
+  { "en": "I'm disappointed by you", "pr": "I be disappointed by ye, matey" },
+  { "en": "I'm relieved by you", "pr": "I be relieved by ye, matey" },
+  { "en": "I'm proud of you", "pr": "I be proud o' ye, matey" },
+  { "en": "I'm ashamed of you", "pr": "I be ashamed o' ye, matey" },
+  { "en": "I'm embarrassed by you", "pr": "I be embarrassed by ye, matey" },
+  { "en": "I'm grateful to you", "pr": "I be grateful to ye, matey" },
+  { "en": "I'm thankful to you", "pr": "I be thankful to ye, matey" },
+  { "en": "I'm appreciative of you", "pr": "I be appreciative o' ye, matey" },
+  { "en": "I'm thankful for you", "pr": "I be thankful for ye, matey" },
+  { "en": "I'm grateful for you", "pr": "I be grateful for ye, matey" },
+  { "en": "I'm happy for you", "pr": "I be happy for ye, matey" },
+  { "en": "I'm sad for you", "pr": "I be sad for ye, matey" },
+  { "en": "I'm angry at you", "pr": "I be angry at ye, matey" },
+  { "en": "I'm excited for you", "pr": "I be excited for ye, matey" },
+  {
+    "en": "Thomas Percy was a member of the failed Gunpowder Plot. Following King James's accession to the English throne in 1603, Percy became disenchanted with the new king, who he supposed had reneged on his promises of toleration for English Catholics. He joined Robert Catesby's conspiracy to kill the King and his ministers by blowing up the House of Lords with gunpowder. Percy helped fund the group and secured the leases to properties in London, including the undercroft beneath the House of Lords where the gunpowder was placed. When the plot was exposed on 5 November 1605, Percy fled to the Midlands, catching up with other conspirators travelling to Dunchurch. At the border of Staffordshire, they were besieged by the Sheriff of Worcester and his men. Percy was reportedly killed by the same musket ball as Catesby and was buried nearby. His body was later exhumed, and his head exhibited outside Parliament. (This article is part of a featured topic: Gunpowder Plot.)",
+    "pr": "Thomas Percy be a swabbie o' the failed Gunpowder Plot. Followin' King James's accession to the English throne in 1603, Percy became disgruntled with the new king, who he supposed had gone back on his promises o' tolerance fer English Catholics. He joined Robert Catesby's conspiracy to send the King and his ministers to Davy Jones' locker by blowin' up the House o' Lords with gunpowder. Percy helped fund the crew and secured the leases to properties in London, includin' the undercroft beneath the House o' Lords where the gunpowder were stashed. When the plot were exposed on 5 November 1605, Percy fled to the Midlands, catchin' up with other scurvy dogs travelin' to Dunchurch. At the border o' Staffordshire, they were besieged by the Sheriff o' Worcester and his men. Percy were reportedly killed by the same musket ball as Catesby and were buried nearby. His body were later dug up, and his head exhibited outside Parliament."
+  },
+
+  {
+    "en": "Thomas Percy was a member of the failed Gunpowder Plot.",
+    "pr": "Thomas Percy be a swabbie o' the failed Gunpowder Plot."
+  },
+  {
+    "en": "Following King James's accession to the English throne in 1603, Percy became disenchanted with the new king, who he supposed had reneged on his promises of toleration for English Catholics.",
+    "pr": "Followin' King James's accession to the English throne in 1603, Percy became disgruntled with the new king, who he supposed had gone back on his promises o' tolerance fer English Catholics."
+  },
+  {
+    "en": "He joined Robert Catesby's conspiracy to kill the King and his ministers by blowing up the House of Lords with gunpowder.",
+    "pr": "He joined Robert Catesby's crew to send the King and his scurvy dogs to Davy Jones' locker by blowin' up the House o' Lords with gunpowder."
+  },
+  {
+    "en": "Percy helped fund the group and secured the leases to properties in London, including the undercroft beneath the House of Lords where the gunpowder was placed.",
+    "pr": "Percy helped fund the crew and secured the leases to properties in London, includin' the undercroft beneath the House o' Lords where the gunpowder were stashed."
+  },
+  {
+    "en": "When the plot was exposed on 5 November 1605, Percy fled to the Midlands, catching up with other conspirators traveling to Dunchurch.",
+    "pr": "When the plot were exposed on 5 November 1605, Percy fled to the Midlands, catchin' up with other scurvy dogs travelin' to Dunchurch."
+  },
+  {
+    "en": "At the border of Staffordshire, they were besieged by the Sheriff of Worcester and his men.",
+    "pr": "At the border o' Staffordshire, they were besieged by the Sheriff o' Worcester and his men."
+  },
+  {
+    "en": "Percy was reportedly killed by the same musket ball as Catesby and was buried nearby.",
+    "pr": "Percy were reportedly killed by the same musket ball as Catesby and were buried nearby."
+  },
+  {
+    "en": "His body was later exhumed, and his head exhibited outside Parliament.",
+    "pr": "His body were later dug up, and his head exhibited outside Parliament."
+  },
+    {
+      "en": "During the Middle Ages, the established written language in Europe was Latin, although the great majority of people were illiterate, and only few were well versed in the language.",
+      "pr": "Back in the days o' old, when ships were made o' wood and men o' steel, the fancy writin' in Europe be Latin, though most scurvy dogs couldn't read a lick, and only a few scholarly sea dogs knew their way 'round it."
+    },
+    {
+      "en": "In the Italian Peninsula, as in most of Europe, most would instead speak a local vernacular.",
+      "pr": "In the Italian waters, like most o' Europe's shores, the landlubbers preferred to speak their local sea shanties."
+    },
+    {
+      "en": "These dialects, as they are commonly referred to, evolved from Vulgar Latin over the course of centuries, unaffected by formal standards and teachings.",
+      "pr": "These ways o' speakin', as the scholarly types call 'em, grew from common Latin like barnacles on a ship's hull over many a year, free from any fancy rules or teachin's."
+    },
+    {
+      "en": "They are not in any sense 'dialects' of standard Italian, which itself started off as one of these local tongues, but sister languages of Italian.",
+      "pr": "Ye can't be callin' these tongues mere 'dialects' o' proper Italian, seeing as Italian itself started as one o' these local sea shanties - they be more like sister ships sailin' the same waters."
+    },
+    {
+      "en": "Mutual intelligibility with Italian varies widely, as it does with Romance languages in general.",
+      "pr": "Some o' these tongues be as clear as a lighthouse on a dark night, others be as murky as the bottom o' Davy Jones' locker, just like all them Romance languages."
+    },
+    {
+      "en": "The Romance languages of Italy can differ greatly from Italian at all levels (phonology, morphology, syntax, lexicon, pragmatics) and are classified typologically as distinct languages.",
+      "pr": "Them fancy Romance tongues o' Italy be as different from proper Italian as a sloop from a galleon - from the way they sound to how they're built, right down to the words they use - they be their own ships entirely."
+    },
+    {
+      "en": "The standard Italian language has a poetic and literary origin in the works of Tuscan writers of the 12th century, and, although the grammar and core lexicon are basically unchanged from those used in Florence in the 13th century,[21] the modern standard of the language was largely shaped by relatively recent events.",
+      "pr": "Proper Italian got its start from them poetic Tuscan scribblers back in the 12th century, and while the bones o' the language be the same as what them Florentine folk used in the 13th century,[21] the modern tongue got most o' its shape from more recent adventures."
+    },
+    {
+      "en": "However, Romance vernacular as language spoken in the Italian Peninsula has a longer history.",
+      "pr": "But mark me words, the common tongue o' the Italian seas has been sailin' these waters far longer than that."
+    },
+    {
+      "en": "In fact, the earliest surviving texts that can definitely be called vernacular (as distinct from its predecessor Vulgar Latin) are legal formulae known as the Placiti Cassinesi from the province of Benevento that date from 960 to 963, although the Veronese Riddle, probably from the 8th or early 9th century, contains a late form of Vulgar Latin that can be seen as a very early sample of a vernacular dialect of Italy.",
+      "pr": "Truth be told, the oldest scraps o' common tongue we've found (not countin' the old Vulgar Latin) be some legal mumbojumbo called the Placiti Cassinesi from Benevento, dated 960 to 963. Though there be this puzzler from Verona, likely from the 8th or early 9th century, what's got some late Vulgar Latin that ye might call an early taste o' Italy's common speech."
+    },
+    {
+      "en": "The Commodilla catacomb inscription is also a similar case.",
+      "pr": "Aye, and them scribblin's in the Commodilla catacombs be cut from the same cloth, savvy?"
+    }
+  
 ]
