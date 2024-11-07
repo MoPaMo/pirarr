@@ -25,21 +25,13 @@ def train_model():
     dataset = dataset["train"].train_test_split(test_size=0.1, seed=42)
 
     def preprocess_function(examples):
-        # Create duplicated entries: original and lowercase
-        inputs = []
-        targets = []
-        # Add original texts
-        inputs.extend(["translate English to Pirate: " + text for text in examples["en"]])
-        targets.extend([text if text is not None else "" for text in examples["pr"]])
-        # Add lowercase versions
-        inputs.extend(["translate English to Pirate: " + text.lower() for text in examples["en"]])
-        targets.extend([text.lower() if text is not None else "" for text in examples["pr"]])
-        
+        inputs = ["translate English to Pirate: " + text for text in examples["en"]]
+        targets = [text if text is not None else "" for text in examples["pr"]]  # Replace None with empty strings
+
         model_inputs = tokenizer(inputs, max_length=128, truncation=True, padding="max_length")
         labels = tokenizer(targets, max_length=128, truncation=True, padding="max_length").input_ids
         model_inputs["labels"] = labels
         return model_inputs
-
 
     print("Preprocessing datasets...")
     tokenized_train = dataset["train"].map(preprocess_function, batched=True)
