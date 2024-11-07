@@ -28,6 +28,10 @@ def train_model():
         inputs = ["translate English to Pirate: " + text for text in examples["en"]]
         targets = [text if text is not None else "" for text in examples["pr"]]  # Replace None with empty strings
 
+        # Add lowercase versions
+        inputs += ["translate English to Pirate: " + text.lower() for text in examples["en"]]
+        targets += [text.lower() if text is not None else "" for text in examples["pr"]]
+
         model_inputs = tokenizer(inputs, max_length=128, truncation=True, padding="max_length")
         labels = tokenizer(targets, max_length=128, truncation=True, padding="max_length").input_ids
         model_inputs["labels"] = labels
