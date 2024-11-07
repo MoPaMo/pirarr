@@ -14,23 +14,19 @@ CHECKPOINT_PATH = os.path.join(MODEL_PATH, "best_model")
 
 def train_model():
     # Load a small model
-    model_name = "google-t5/t5-small"  
+    model_name = "google-t5/t5-small"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(device)
 
     # Prepare the dataset
     dataset = load_dataset("json", data_files="data/pirate2.json")
-    
+
     # Split the dataset into train and validation sets (90-10 split)
     dataset = dataset["train"].train_test_split(test_size=0.1, seed=42)
 
     def preprocess_function(examples):
         inputs = ["translate English to Pirate: " + text for text in examples["en"]]
-        targets = [text if text is not None else "" for text in examples["pr"]]  # Replace None with empty strings
-
-        # Add lowercase versions
-        inputs += ["translate English to Pirate: " + text.lower() for text in examples["en"]]
-        targets += [text.lower() if text is not None else "" for text in examples["pr"]]
+        targets = [text if text is not None else "" for text in examples["pr"]]
 
         model_inputs = tokenizer(inputs, max_length=128, truncation=True, padding="max_length")
         labels = tokenizer(targets, max_length=128, truncation=True, padding="max_length").input_ids
@@ -74,7 +70,7 @@ def train_model():
 
     print(f"Starting training with {len(tokenized_train)} examples...")
     trainer.train()
-    
+
     # Save the best model and tokenizer
     trainer.save_model(CHECKPOINT_PATH)
     tokenizer.save_pretrained(CHECKPOINT_PATH)
@@ -90,7 +86,7 @@ def translate_to_pirate(text, model, tokenizer):
     input_text = "translate English to Pirate: " + text
     inputs = tokenizer(input_text, return_tensors="pt", max_length=128, truncation=True, padding="max_length")
     inputs = {k: v.to(device) for k, v in inputs.items()}
-    
+
     outputs = model.generate(
         **inputs,
         max_new_tokens=128,
@@ -104,7 +100,7 @@ def translate_to_pirate(text, model, tokenizer):
         early_stopping=True,
         length_penalty=1.0
     )
-    
+
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 if __name__ == "__main__":
@@ -112,10 +108,10 @@ if __name__ == "__main__":
     if not os.path.exists(CHECKPOINT_PATH):
         print("No existing model found. Starting training...")
         train_model()
-    
+
     # Load the model
     model, tokenizer = load_translator()
-    
+
     # Test examples
     test_texts = [
         "Hello, how are you?",
@@ -131,7 +127,7 @@ if __name__ == "__main__":
         pirate_text = translate_to_pirate(text, model, tokenizer)
         print(f"English: {text}")
         print(f"Pirate: {pirate_text}\n")
-    
+
     # Interactive mode
     print("\nInteractive Mode (type 'quit' to exit):")
     while True:
